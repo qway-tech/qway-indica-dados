@@ -1,0 +1,23 @@
+{
+  "natureza": "positiva",
+  "titulo": "Canal repleto de conteúdo técnico e profissional, envolvendo nomes relevantes do mercado de QA",
+  "nome": "Hora do QA",
+  "empresaOuResponsavel": "Ricardo Fahham",
+  "area": "QA",
+  "areaOutra": "",
+  "tipo": "Canal do Youtube",
+  "tipoOutro": "",
+  "valor": "https://www.youtube.com/@horadoqa",
+  "descricao": "asd",
+  "aspectosNegativos": [
+    "Relevância dos temas abordados",
+    "Engajamento com a comunidade"
+  ],
+  "tipoIndicacao": "Conteúdo",
+  "especialidade": "Playlists sobre ferramentas e tecnologias",
+  "link": "",
+  "id": "pos-0006",
+  "data": "2025-09-19T18:54:43.050Z",
+  "status": "pendente",
+  "dataRegistro": "2025-09-19T18:54:43.330Z"
+}
