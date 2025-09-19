@@ -1,19 +1,26 @@
-
-
-{
-  "idReferencia": "neg-0001",
-  "comentarios": [
-    {
-      "data": "2025-09-15T16:40:00Z",
-      "autor": "Anônimo",
-      "texto": "Passei pela mesma experiência, o conteúdo era muito superficial.",
-      "userId": null
-    },
-    {
-      "data": "2025-09-15T17:00:00Z",
-      "autor": "QA Desconfiado",
-      "texto": "Achei muito marketing para pouco conteúdo real. Prometeram acompanhamento e não entregaram.",
-      "userId": "user-678"
-    }
-  ]
-}
+[
+  {
+    "autor": "Daniel Castro",
+    "texto": "Testando...",
+    "email": "daniel.kodeout@gmail.com",
+    "data": "18/09/2025, 09:38:05"
+  },
+  {
+    "autor": "Daniel Castro",
+    "texto": "Testando 2",
+    "email": "daniel.kodeout@gmail.com",
+    "data": "18/09/2025, 09:39:22"
+  },
+  {
+    "autor": "Daniel Castro",
+    "texto": "Teste 3",
+    "email": "daniel.kodeout@gmail.com",
+    "data": "18/09/2025, 09:42:25"
+  },
+  {
+    "autor": "Daniel Castro",
+    "texto": "Teste",
+    "email": "daniel.kodeout@gmail.com",
+    "data": "18/09/2025, 16:42:51"
+  }
+]
