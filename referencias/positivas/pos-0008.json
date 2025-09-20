@@ -1,0 +1,26 @@
+{
+  "natureza": "positiva",
+  "titulo": "Canal repleto de conteúdo técnico e profissional, envolvendo nomes relevantes do mercado de QA",
+  "nome": "Hora do QA",
+  "empresaOuResponsavel": "Ricardo Fahham",
+  "area": "QA",
+  "areaOutra": "",
+  "tipo": "Canal do Youtube",
+  "tipoOutro": "",
+  "valor": "https://www.youtube.com/@horadoqa",
+  "descricao": "Canal repleto de conteúdo técnico e profissional, envolvendo nomes relevantes do mercado de QA.",
+  "aspectosNegativos": [
+    "Instrutor com boa didática",
+    "Fonte de aprendizado contínuo",
+    "Engajamento com a comunidade",
+    "Convidados relevantes (se for podcast/canal)"
+  ],
+  "tipoIndicacao": "Conteúdo",
+  "especialidade": "Playlists sobre ferramentas e tecnologias",
+  "link": "",
+  "email": "daniel@kodeout.tk",
+  "id": "pos-0008",
+  "data": "2025-09-20T15:05:57.496Z",
+  "status": "pendente",
+  "dataRegistro": "2025-09-20T15:05:57.767Z"
+}
