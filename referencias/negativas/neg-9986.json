@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Canal de YouTube com clickbait e código quebrado",
+  "nome": "Teste Fácil TV",
+  "empresaOuResponsavel": "Produtor Teste Fácil",
+  "area": "Automação",
+  "areaOutra": "",
+  "tipo": "Canal no YouTube",
+  "tipoOutro": "",
+  "valor": "Gratuito (com venda agressiva de cursos)",
+  "descricao": "O canal Teste Fácil TV promete ensinar automação em minutos, mas os vídeos são superficiais e o código disponível não roda nem no primeiro teste.\n\nOs comentários pedindo ajuda ficam sem resposta ou recebem links para cursos caros.\n\nEm vários vídeos os hosts propagam conceitos errados, como usar sleeps fixos como \"melhor prática\".\n\nNo final, parece um funil agressivo de vendas travestido de conteúdo técnico.",
+  "aspectosSelecionados": [
+    "Código quebrado",
+    "Conceitos errados",
+    "Ausência de suporte",
+    "Clickbait constante",
+    "Venda agressiva"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Automação básica",
+  "link": "https://testefaciltv.example.com",
+  "email": "denuncia4@indicacoesdemo.example.com",
+  "data": "2024-08-15T15:11:00Z",
+  "status": "pendente",
+  "id": "neg-9986",
+  "dataRegistro": "2024-08-15T15:16:00Z",
+  "demo": true,
+  "playlistPrometida": "Série de Cypress atualizada",
+  "playlistReal": "Vídeos antigos reaproveitados",
+  "comunidade": "Grupo fechado pago sem monitoria"
+}

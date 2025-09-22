@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Mentora em QA manual com foco em bancos digitais",
+  "nome": "Carla Menezes",
+  "empresaOuResponsavel": "Carla Menezes Consultoria",
+  "area": "Testes Funcionais",
+  "areaOutra": "",
+  "tipo": "Mentoria individual",
+  "tipoOutro": "",
+  "valor": "R$180,00/hora",
+  "descricao": "Carla Menezes atua há 12 anos em QA manual e análise de negócios para bancos digitais e fintechs. Ela inicia todo trabalho com sessões de discovery e shadowing para mapear fluxos críticos antes de qualquer roteiro de testes.\n\nNo projeto mais recente, redesenhou todo o conjunto de regressão de um core bancário, criando matrizes de risco que reduziram em 30% os bugs que escapavam para produção.\n\nCarla conduz mentorias quinzenais com acompanhamento estruturado no Notion, entregando checklists, templates de documentação e roteiros de alinhamento que permanecem acessíveis para o time.\n\nIndico para squads que precisam fortalecer processos sem perder cadência ágil e que buscam uma facilitadora capaz de dialogar com produto, negócios e tecnologia.",
+  "aspectosSelecionados": [
+    "Diagnóstico aprofundado",
+    "Documentação clara",
+    "Follow-up consistente",
+    "Visão centrada no negócio",
+    "Postura colaborativa"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "QA Manual, Análise de Negócios, Facilitação de Workshops",
+  "link": "https://carlaqa.example.com",
+  "email": "contato@carlaqa.example.com",
+  "data": "2024-10-05T09:00:00Z",
+  "status": "aprovada",
+  "id": "pos-9999",
+  "dataRegistro": "2024-10-05T09:05:00Z",
+  "demo": true,
+  "tempoExperiencia": "12 anos",
+  "publicoAlvo": "Analistas de QA plenos e seniors",
+  "formatosAtendimento": "Sessões remotas quinzenais com entregáveis em Notion",
+  "idiomasAtendidos": "Português e Inglês",
+  "regiaoAtendimento": "Atendimento remoto para Brasil e Portugal"
+}

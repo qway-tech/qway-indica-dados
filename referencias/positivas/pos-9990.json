@@ -1,0 +1,32 @@
+{
+  "natureza": "positiva",
+  "titulo": "Consultoria em QA regulatório com olhar ESG",
+  "nome": "VerdeTech Compliance QA",
+  "empresaOuResponsavel": "VerdeTech Compliance QA",
+  "area": "Consultoria",
+  "areaOutra": "",
+  "tipo": "Consultoria regulatória",
+  "tipoOutro": "",
+  "valor": "Retainers a partir de R$22.000,00/mês",
+  "descricao": "VerdeTech Compliance QA é especializada em segmentos regulados e combina qualidade de software com agendas ESG e de sustentabilidade.\n\nA equipe conduz auditorias completas, cria políticas de qualidade, estabelece rotinas de evidência e prepara times para certificações internacionais.\n\nUm destaque é a biblioteca de evidências automatizada, que reduz muito o tempo gasto em auditorias externas e visitas de órgãos reguladores.\n\nIdeal para empresas que precisam conciliar inovação com requisitos regulatórios e relatórios de impacto socioambiental.",
+  "aspectosSelecionados": [
+    "Auditorias completas",
+    "Biblioteca de evidências",
+    "Programas de compliance",
+    "Alinhamento ESG e qualidade",
+    "Equipe multidisciplinar"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Compliance, ESG, Auditorias de Qualidade",
+  "link": "https://verdetecqa.example.com",
+  "email": "contato@verdetecqa.example.com",
+  "data": "2024-10-23T11:33:00Z",
+  "status": "aprovada",
+  "id": "pos-9990",
+  "dataRegistro": "2024-10-23T11:38:00Z",
+  "demo": true,
+  "certificacoesSuportadas": "ISO 9001, ISO 27001, SOC 2 e relatórios ESG",
+  "metodologia": "Workshops, auditoria participativa e relatórios executivos",
+  "regioesAtendidas": "Brasil, Chile e Portugal",
+  "complementos": "Portal de evidências e simulados de auditoria"
+}

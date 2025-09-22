@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Grupo de WhatsApp com ambiente tóxico e sem moderação",
+  "nome": "QA Brasil Sem Filtro",
+  "empresaOuResponsavel": "Administração QA Brasil Sem Filtro",
+  "area": "Comunidade",
+  "areaOutra": "",
+  "tipo": "Grupo no WhatsApp",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O grupo QA Brasil Sem Filtro diz ser espaço aberto, mas na prática virou local de ataques pessoais e discussões ofensivas.\n\nQualquer tentativa de trazer pautas técnicas vira motivo de piada e a moderação não intervém quando há falas discriminatórias.\n\nPessoas recém-chegadas são expostas e existe compartilhamento de prints de conversas privadas sem permissão.\n\nSaí porque não me sentia seguro e vi colegas sendo perseguidos em outras redes.",
+  "aspectosSelecionados": [
+    "Ambiente hostil",
+    "Ausência de moderação",
+    "Compartilhamento indevido",
+    "Falta de foco técnico",
+    "Desrespeito recorrente"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Grupo informal de QA",
+  "link": "https://chat.whatsapp.com/inviteqasemfiltro",
+  "email": "alertacomunidade1@indicacoesdemo.example.com",
+  "data": "2024-08-29T17:10:00Z",
+  "status": "pendente",
+  "id": "neg-9979",
+  "dataRegistro": "2024-08-29T17:15:00Z",
+  "demo": true,
+  "participantes": "Mais de 700 membros sem regras claras",
+  "moderadores": "Administradores inativos",
+  "incidentes": "Diversas denúncias de assédio ignoradas"
+}

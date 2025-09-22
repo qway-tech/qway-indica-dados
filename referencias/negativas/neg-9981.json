@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Portal de notícias que só replica press release",
+  "nome": "QA News 24h",
+  "empresaOuResponsavel": "Redação QA News",
+  "area": "Portal de Notícias",
+  "areaOutra": "",
+  "tipo": "Canal de Notícias",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O portal QA News 24h apenas copia press releases e traduz automaticamente sem checar nada.\n\nJá encontrei notícias com dados desatualizados e nomes de empresas escritos de forma errada.\n\nEles divulgam rankings de ferramentas sem explicar critérios e usam selo de \"melhor do mercado\" vendido.\n\nFalta seriedade para confiar nesse tipo de conteúdo.",
+  "aspectosSelecionados": [
+    "Conteúdo copiado",
+    "Dados desatualizados",
+    "Critérios inexistentes",
+    "Erros constantes",
+    "Marketing disfarçado"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Notícias de QA",
+  "link": "https://qanews24h.example.com",
+  "email": "feedbacknegativo4@indicacoesdemo.example.com",
+  "data": "2024-08-25T16:36:00Z",
+  "status": "pendente",
+  "id": "neg-9981",
+  "dataRegistro": "2024-08-25T16:41:00Z",
+  "demo": true,
+  "origemConteudo": "85% press releases replicados",
+  "revisao": "Sem editor técnico identificado",
+  "rankingPago": "Cobram para aparecer em listas"
+}

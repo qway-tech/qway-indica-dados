@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Consultoria que entregou diagnóstico genérico e caro",
+  "nome": "SprintShield Consultoria",
+  "empresaOuResponsavel": "SprintShield Consultoria",
+  "area": "Consultoria",
+  "areaOutra": "",
+  "tipo": "Consultoria de Maturidade",
+  "tipoOutro": "",
+  "valor": "Projeto de R$92.000,00",
+  "descricao": "A SprintShield prometeu um assessment completo de maturidade, mas apresentou um slide deck reaproveitado com recomendações superficiais.\n\nNão entrevistaram as lideranças, ignoraram documentos enviados e sugeriram ações que já estavam em prática há anos.\n\nO relatório final tinha indicadores inventados e não existia qualquer priorização ou plano de implementação.\n\nSentimos que compramos uma apresentação bonita sem nenhuma análise real e sem responsabilidade pós-projeto.",
+  "aspectosSelecionados": [
+    "Entrega superficial",
+    "Ausência de entrevistas",
+    "Métricas inventadas",
+    "Falta de priorização",
+    "Nenhum acompanhamento"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Assessment de Maturidade",
+  "link": "https://sprintshield.example.com",
+  "email": "alerta2@indicacoesdemo.example.com",
+  "data": "2024-08-01T13:12:00Z",
+  "status": "pendente",
+  "id": "neg-9993",
+  "dataRegistro": "2024-08-01T13:17:00Z",
+  "demo": true,
+  "tempoContrato": "6 semanas prometidas, concluído em 10 dias",
+  "entregaveis": "Slide deck genérico sem dados",
+  "propostasUpsell": "Tentaram vender implementação sem corrigir falhas do diagnóstico"
+}

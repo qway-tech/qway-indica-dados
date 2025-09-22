@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Especialista em governança de dados para QA",
+  "nome": "Amanda Reis",
+  "empresaOuResponsavel": "AR Quality Data",
+  "area": "Governança de Dados",
+  "areaOutra": "",
+  "tipo": "Consultoria estratégica",
+  "tipoOutro": "",
+  "valor": "R$9.500,00/sprint",
+  "descricao": "Amanda Reis especializa-se em governança de dados de teste para ambientes regulados e atua há 11 anos com QA orientado à conformidade.\n\nSeu método começa inventariando fontes de dados, classificando sensibilidade e estruturando políticas de mascaramento alinhadas à LGPD.\n\nEm um banco de investimento, construiu catálogos versionados, criou métricas de risco e treinou o time para operar pipelines de dados sintéticos.\n\nExcelente escolha para organizações que precisam auditar dados de teste e responder prontamente a regulações.",
+  "aspectosSelecionados": [
+    "Mapeamento de riscos de dados",
+    "Templates de compliance",
+    "Automação de mascaramento",
+    "Métricas de governança",
+    "Alinhamento com auditoria"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "Data Quality, Mascaramento de Dados, Compliance",
+  "link": "https://arqualitydata.example.com",
+  "email": "amanda@arqualitydata.example.com",
+  "data": "2024-10-13T10:08:00Z",
+  "status": "aprovada",
+  "id": "pos-9995",
+  "dataRegistro": "2024-10-13T10:13:00Z",
+  "demo": true,
+  "tempoExperiencia": "11 anos",
+  "formatosAtendimento": "Sprints de 4 semanas com workshops e coaching",
+  "publicoAlvo": "Instituições financeiras, healthtechs e seguradoras",
+  "metodologia": "Roadmap orientado à LGPD e frameworks internacionais",
+  "documentacaoEntregue": "Catálogos versionados, métricas e relatórios executivos"
+}

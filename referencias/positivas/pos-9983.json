@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Blog que traduz observabilidade para o dia a dia de QA",
+  "nome": "Observabilidade na Prática",
+  "empresaOuResponsavel": "Equipe Observabilidade na Prática",
+  "area": "Observabilidade",
+  "areaOutra": "",
+  "tipo": "Blog Editorial",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O blog Observabilidade na Prática destrincha arquitetura, métricas e monitoramento sob a perspectiva da qualidade e da confiabilidade.\n\nCada artigo apresenta fluxos reais, dashboards comentados e trade-offs de implementação, indo muito além de tutoriais superficiais.\n\nHá séries especiais comparando ferramentas, entrevistas com líderes que implantaram observabilidade e guias para convencer executivos.\n\nIdeal para quem precisa defender investimentos e busca argumentos técnicos bem embasados.",
+  "aspectosSelecionados": [
+    "Conteúdo denso e aplicável",
+    "Diagramas claros",
+    "Comparativos honestos",
+    "Casos brasileiros",
+    "Atualizações frequentes"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Observabilidade, Métricas de QA, Arquitetura",
+  "link": "https://observabilidadenapratica.example.com",
+  "email": "editorial@observabilidadenapratica.example.com",
+  "data": "2024-11-06T13:32:00Z",
+  "status": "aprovada",
+  "id": "pos-9983",
+  "dataRegistro": "2024-11-06T13:37:00Z",
+  "demo": true,
+  "frequencia": "Publicações quinzenais",
+  "autores": "Equipe editorial e convidados do mercado",
+  "categorias": "Arquitetura, Métricas, Cultura de Observabilidade",
+  "newsletterResumo": "Resumo mensal com destaques",
+  "idiomas": "Português"
+}

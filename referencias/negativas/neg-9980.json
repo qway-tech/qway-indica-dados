@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Lives semanais sem preparo e com informações erradas",
+  "nome": "QA Express Live",
+  "empresaOuResponsavel": "Produtora QA Express",
+  "area": "Lives",
+  "areaOutra": "",
+  "tipo": "Canal no YouTube",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O QA Express Live transmite lives semanais aparentemente improvisadas, com apresentadores lendo perguntas sem conhecer o assunto.\n\nJá recomendaram usar credenciais compartilhadas em times de QA e outras práticas perigosas.\n\nQuando espectadores corrigem, respondem com ironia ou bloqueiam o usuário no chat.\n\nNão recomendo seguir um canal que passa informação errada e ainda trata mal quem aponta riscos.",
+  "aspectosSelecionados": [
+    "Desinformação",
+    "Postura agressiva",
+    "Nenhuma preparação",
+    "Sugestões arriscadas",
+    "Falta de responsabilidade"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Lives sobre QA",
+  "link": "https://qaexpresslive.example.com",
+  "email": "feedbacknegativo5@indicacoesdemo.example.com",
+  "data": "2024-08-27T16:53:00Z",
+  "status": "pendente",
+  "id": "neg-9980",
+  "dataRegistro": "2024-08-27T16:58:00Z",
+  "demo": true,
+  "horario": "Quintas-feiras à noite",
+  "moderacao": "Bloqueios constantes de comentários críticos",
+  "episodiosComProblema": "Pelo menos 6 lives com informações perigosas"
+}

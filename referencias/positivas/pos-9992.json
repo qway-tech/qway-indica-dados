@@ -1,0 +1,32 @@
+{
+  "natureza": "positiva",
+  "titulo": "Plataforma que une teste exploratório e analytics acionável",
+  "nome": "Pulsar Digital Assurance",
+  "empresaOuResponsavel": "Pulsar Digital Assurance",
+  "area": "Plataformas de Teste",
+  "areaOutra": "",
+  "tipo": "Plataforma + Serviço",
+  "tipoOutro": "",
+  "valor": "Planos enterprise a partir de R$26.500,00/mês",
+  "descricao": "Pulsar Digital Assurance oferece uma plataforma híbrida de testes exploratórios com analytics em tempo real, combinando profissionais especialistas e captura automática de evidências.\n\nO painel executivo mostra métricas de cobertura, severidade e custo de falha evitado, o que facilita priorização com stakeholders de produto e tecnologia.\n\nA equipe de curadoria ajuda a definir hipóteses, cria roteiros personalizados e entrega relatórios ricos com insights acionáveis para squads multidisciplinares.\n\nÉ uma ótima opção para times que valorizam experimentação rápida e não querem abrir mão de rastreabilidade e governança.",
+  "aspectosSelecionados": [
+    "Analytics em tempo real",
+    "Evidências automáticas",
+    "Curadoria de especialistas",
+    "Integração com ferramentas de produto",
+    "Métricas claras para executivos"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Testes Exploratórios, Analytics, Observabilidade de Produto",
+  "link": "https://pulsarassurance.example.com",
+  "email": "hello@pulsarassurance.example.com",
+  "data": "2024-10-19T10:59:00Z",
+  "status": "aprovada",
+  "id": "pos-9992",
+  "dataRegistro": "2024-10-19T11:04:00Z",
+  "demo": true,
+  "canaisSuporte": "Portal 24/7 e customer success dedicado",
+  "integracoesNativas": "Jira, Linear, Azure DevOps e Slack",
+  "pilaresMetodologicos": "Exploração guiada por hipóteses, evidência contextual, métricas de impacto",
+  "dashboardsDisponiveis": "Cobertura, severidade, custo evitado e saúde do backlog"
+}

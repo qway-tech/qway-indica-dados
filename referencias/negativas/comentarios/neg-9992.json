@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Sabrina Lopes",
+    "texto": "O suporte de Checkmate Labs foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "sabrina.lopes@example.com",
+    "data": "03/08/2024, 13:41:00"
+  },
+  {
+    "autor": "Enzo Vieira",
+    "texto": "Infelizmente Checkmate Labs não entregou o que prometeu e gerou retrabalho.",
+    "email": "enzo.vieira@example.com",
+    "data": "03/08/2024, 13:45:00"
+  },
+  {
+    "autor": "Juliana Campos",
+    "texto": "Recebemos respostas genéricas de Checkmate Labs e nenhuma ação concreta.",
+    "email": "juliana.campos@example.com",
+    "data": "03/08/2024, 13:46:00"
+  },
+  {
+    "autor": "Otávio Furtado",
+    "texto": "Checkmate Labs parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "otavio.furtado@example.com",
+    "data": "03/08/2024, 13:52:00"
+  },
+  {
+    "autor": "Priscila Bessa",
+    "texto": "Checkmate Labs ignorou feedbacks e manteve uma postura defensiva.",
+    "email": "priscila.bessa@example.com",
+    "data": "03/08/2024, 13:52:00"
+  }
+]

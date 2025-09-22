@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Newsletter que virou catálogo de anúncios",
+  "nome": "QA Insiders Weekly",
+  "empresaOuResponsavel": "Equipe QA Insiders",
+  "area": "Curadoria de Conteúdo",
+  "areaOutra": "",
+  "tipo": "Newsletter",
+  "tipoOutro": "",
+  "valor": "Assinatura de R$19,00/mês",
+  "descricao": "A newsletter QA Insiders começou bem, mas rapidamente virou um catálogo de anúncios disfarçados de recomendação.\n\nOs textos elogiam qualquer curso ou evento sem indicar que são parcerias pagas e não há curadoria real.\n\nQuando questionei a equipe, responderam que \"todo mundo precisa monetizar\" e não sinalizaram que mudariam a abordagem.\n\nDesassinei porque não confio em conteúdo que não indica claramente conflitos de interesse.",
+  "aspectosSelecionados": [
+    "Publicidade disfarçada",
+    "Perda de curadoria",
+    "Falta de transparência",
+    "Respostas evasivas",
+    "Valor duvidoso"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Curadoria (prometida)",
+  "link": "https://qainsiders.example.com",
+  "email": "feedbacknegativo1@indicacoesdemo.example.com",
+  "data": "2024-08-19T15:45:00Z",
+  "status": "pendente",
+  "id": "neg-9984",
+  "dataRegistro": "2024-08-19T15:50:00Z",
+  "demo": true,
+  "frequencia": "Envios semanais",
+  "mudanca": "Após 2 meses virou 80% publicidade",
+  "tentativaContato": "E-mail respondido com justificativa vaga"
+}

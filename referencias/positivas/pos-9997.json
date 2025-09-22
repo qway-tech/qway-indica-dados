@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Coaching de liderança técnica para capítulos de QA",
+  "nome": "Isadora Figueiredo",
+  "empresaOuResponsavel": "Isadora Figueiredo",
+  "area": "Liderança Técnica",
+  "areaOutra": "",
+  "tipo": "Mentoria de liderança",
+  "tipoOutro": "",
+  "valor": "R$3.200,00/pacote trimestral",
+  "descricao": "Isadora Figueiredo conduz programas de liderança técnica para capítulos de QA e áreas de Qualidade há mais de 15 anos.\n\nO onboarding começa com entrevistas 360º, leitura de indicadores e revisão de rituais para montar um diagnóstico cultural antes de propor novas cadências.\n\nNo último ciclo ela estruturou planos de desenvolvimento individuais, definiu OKRs do capítulo e facilitou encontros de alinhamento entre líderes técnicos e RH.\n\nRecomendo para empresas que precisam profissionalizar a liderança de QA e criar uma cultura de cuidado com pessoas e resultados.",
+  "aspectosSelecionados": [
+    "Diagnóstico cultural completo",
+    "Ferramentas para líderes",
+    "Integração com RH",
+    "Workshops energizantes",
+    "Medição de resultados"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "Gestão de Pessoas, Chapter Leadership, Cultura de Qualidade",
+  "link": "https://isadoralidera.example.com",
+  "email": "contato@isadoralidera.example.com",
+  "data": "2024-10-09T09:34:00Z",
+  "status": "aprovada",
+  "id": "pos-9997",
+  "dataRegistro": "2024-10-09T09:39:00Z",
+  "demo": true,
+  "tempoExperiencia": "15 anos",
+  "formatosAtendimento": "Workshops híbridos, sessões one-on-one e office hours",
+  "publicoAlvo": "Chapter Leads, QA Managers e pessoas coordenadoras",
+  "materiaisSuporte": "Canvas de capítulo, trilhas de carreira e toolkit de feedback",
+  "idiomasAtendidos": "Português e Inglês"
+}

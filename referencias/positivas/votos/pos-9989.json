@@ -1,0 +1,30 @@
+[
+  {
+    "email": "qa.votos+09@example.com",
+    "data": "25/10/2024, 12:01:00"
+  },
+  {
+    "email": "qa.votos+06@example.com",
+    "data": "25/10/2024, 12:03:00"
+  },
+  {
+    "email": "qa.votos+01@example.com",
+    "data": "25/10/2024, 12:09:00"
+  },
+  {
+    "email": "qa.votos+08@example.com",
+    "data": "25/10/2024, 12:11:00"
+  },
+  {
+    "email": "qa.votos+09@example.com",
+    "data": "25/10/2024, 12:10:00"
+  },
+  {
+    "email": "qa.votos+01@example.com",
+    "data": "25/10/2024, 12:15:00"
+  },
+  {
+    "email": "qa.votos+02@example.com",
+    "data": "25/10/2024, 12:14:00"
+  }
+]

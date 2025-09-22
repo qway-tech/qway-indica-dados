@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Comunidade de drops com curadoria colaborativa",
+  "nome": "Quality Drops Discord",
+  "empresaOuResponsavel": "Moderadores Quality Drops",
+  "area": "Comunidade de Conteúdo",
+  "areaOutra": "",
+  "tipo": "Comunidade no Discord",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "Quality Drops é uma comunidade no Discord dedicada a compartilhar conteúdos curtos e bem curados sobre QA.\n\nOs canais temáticos trazem resumos de talks, indicações de leituras e threads com análise crítica feita pela própria comunidade.\n\nToda semana rola o drop de estudos, quando voluntários apresentam aprendizados ao vivo com material disponibilizado para download.\n\nÉ um ótimo espaço para receber recomendações confiáveis sem ruído e com moderação ativa.",
+  "aspectosSelecionados": [
+    "Curadoria colaborativa",
+    "Resumos objetivos",
+    "Eventos semanais",
+    "Moderação ativa",
+    "Ambiente acolhedor"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Curadoria Comunitária, Estudo Guiado, Discussão Técnica",
+  "link": "https://qualitydrops.example.com",
+  "email": "contato@qualitydrops.example.com",
+  "data": "2024-11-10T14:06:00Z",
+  "status": "aprovada",
+  "id": "pos-9981",
+  "dataRegistro": "2024-11-10T14:11:00Z",
+  "demo": true,
+  "frequencia": "Drops semanais de conteúdo",
+  "moderadores": "Time com 6 pessoas experientes em QA",
+  "ferramentasSuporte": "Bots para organizar links e votações",
+  "canais": "Discord integrado a Notion e GitHub",
+  "participacao": "Aberta e gratuita mediante acordo de convivência"
+}

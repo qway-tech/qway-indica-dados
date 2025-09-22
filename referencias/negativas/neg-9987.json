@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Podcast com publicidade disfarçada e pouca profundidade",
+  "nome": "Qualidade em 5 Minutos",
+  "empresaOuResponsavel": "Produtora Flash QA",
+  "area": "Conteúdo em Áudio",
+  "areaOutra": "",
+  "tipo": "Podcast",
+  "tipoOutro": "",
+  "valor": "Assinatura de R$29,90/mês",
+  "descricao": "Assinei o podcast Qualidade em 5 Minutos esperando análises rápidas, porém os episódios são apenas leitura de releases e propaganda de cursos parceiros.\n\nNão há discussão técnica, fontes ou contextualização; parece roteiro vendido para anunciantes.\n\nAs perguntas enviadas pela comunidade nunca são respondidas e os apresentadores cortam qualquer crítica nos comentários.\n\nCancelar a assinatura foi difícil e a plataforma continuou cobrando por dois meses.",
+  "aspectosSelecionados": [
+    "Conteúdo superficial",
+    "Publicidade disfarçada",
+    "Sem interação",
+    "Falta de transparência",
+    "Dificuldade para cancelar"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Conteúdo em áudio (prometido)",
+  "link": "https://qualidade5min.example.com",
+  "email": "denuncia3@indicacoesdemo.example.com",
+  "data": "2024-08-13T14:54:00Z",
+  "status": "pendente",
+  "id": "neg-9987",
+  "dataRegistro": "2024-08-13T14:59:00Z",
+  "demo": true,
+  "frequencia": "Episódios de 5 minutos duas vezes por semana",
+  "tempoExperienciaHosts": "Não informado",
+  "tentativasCancelamento": "4 tickets até concluírem"
+}

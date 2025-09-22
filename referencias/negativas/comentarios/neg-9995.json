@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Otávio Furtado",
+    "texto": "Eduardo Brites ignorou feedbacks e manteve uma postura defensiva.",
+    "email": "otavio.furtado@example.com",
+    "data": "28/07/2024, 12:51:00"
+  },
+  {
+    "autor": "Juliana Campos",
+    "texto": "Infelizmente Eduardo Brites não entregou o que prometeu e gerou retrabalho.",
+    "email": "juliana.campos@example.com",
+    "data": "28/07/2024, 12:54:00"
+  },
+  {
+    "autor": "Mateus Antunes",
+    "texto": "Eduardo Brites parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "mateus.antunes@example.com",
+    "data": "28/07/2024, 12:55:00"
+  },
+  {
+    "autor": "Ícaro Neves",
+    "texto": "A experiência com Eduardo Brites foi frustrante e comprometeu nossa credibilidade.",
+    "email": "icaro.neves@example.com",
+    "data": "28/07/2024, 12:58:00"
+  },
+  {
+    "autor": "Priscila Bessa",
+    "texto": "Senti muita falta de transparência da parte de Eduardo Brites durante todo o processo.",
+    "email": "priscila.bessa@example.com",
+    "data": "28/07/2024, 13:02:00"
+  }
+]

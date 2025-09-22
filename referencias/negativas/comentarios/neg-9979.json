@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Larissa Prado",
+    "texto": "QA Brasil Sem Filtro parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "larissa.prado@example.com",
+    "data": "29/08/2024, 17:22:00"
+  },
+  {
+    "autor": "Sabrina Lopes",
+    "texto": "O suporte de QA Brasil Sem Filtro foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "sabrina.lopes@example.com",
+    "data": "29/08/2024, 17:24:00"
+  },
+  {
+    "autor": "Vitória Assunção",
+    "texto": "Infelizmente QA Brasil Sem Filtro não entregou o que prometeu e gerou retrabalho.",
+    "email": "vitoria.assuncao@example.com",
+    "data": "29/08/2024, 17:27:00"
+  },
+  {
+    "autor": "Bianca Costa",
+    "texto": "Senti muita falta de transparência da parte de QA Brasil Sem Filtro durante todo o processo.",
+    "email": "bianca.costa@example.com",
+    "data": "29/08/2024, 17:32:00"
+  },
+  {
+    "autor": "Mateus Antunes",
+    "texto": "Recebemos respostas genéricas de QA Brasil Sem Filtro e nenhuma ação concreta.",
+    "email": "mateus.antunes@example.com",
+    "data": "29/08/2024, 17:34:00"
+  }
+]

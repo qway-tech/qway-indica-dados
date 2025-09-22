@@ -1,0 +1,33 @@
+{
+  "natureza": "negativa",
+  "titulo": "Webinar repetitivo que não responde perguntas",
+  "nome": "KPIs que Impressionam",
+  "empresaOuResponsavel": "Metrics Express",
+  "area": "Eventos",
+  "areaOutra": "",
+  "tipo": "Evento",
+  "tipoOutro": "",
+  "valor": "R$59,00",
+  "descricao": "O webinar KPIs que Impressionam é na verdade uma gravação repetida toda semana com perguntas pré-selecionadas.\n\nNão há espaço para interação real: o chat é travado e respondem apenas perguntas que favorecem vender o curso deles.\n\nO material entregue é uma planilha com fórmulas quebradas e exemplos sem contexto.\n\nSenti que comprei uma palestra genérica para entrar em um funil de vendas.",
+  "aspectosSelecionados": [
+    "Conteúdo repetido",
+    "Sem interação real",
+    "Material de baixa qualidade",
+    "Foco em upsell",
+    "Valor não condizente"
+  ],
+  "tipoIndicacao": "evento",
+  "especialidade": "Webinar",
+  "link": "https://metricsexpress.example.com",
+  "email": "alertaevento4@indicacoesdemo.example.com",
+  "data": "2024-09-14T19:26:00Z",
+  "status": "pendente",
+  "id": "neg-9971",
+  "dataRegistro": "2024-09-14T19:31:00Z",
+  "demo": true,
+  "tipoEvento": "Webinar",
+  "organizador": "Metrics Express",
+  "local": "Online",
+  "promessa": "Sessão ao vivo com Q&A",
+  "realidade": "Vídeo gravado com chat bloqueado"
+}

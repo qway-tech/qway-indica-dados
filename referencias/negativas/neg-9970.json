@@ -1,0 +1,33 @@
+{
+  "natureza": "negativa",
+  "titulo": "Conferência estilo pirâmide disfarçada de networking",
+  "nome": "Future QA Experience",
+  "empresaOuResponsavel": "Future QA Experience",
+  "area": "Eventos",
+  "areaOutra": "",
+  "tipo": "Evento",
+  "tipoOutro": "",
+  "valor": "R$480,00",
+  "descricao": "A Future QA Experience dizia ser conferência inovadora, mas todo o evento girou em torno de vender franquias e pacotes de cursos com promessa de lucro rápido.\n\nAs palestras eram depoimentos de pessoas falando quanto ganharam recomendando o programa para amigos.\n\nNão havia conteúdo técnico, apenas pitches com urgência artificial para comprar.\n\nSaí antes do fim para não compactuar com um esquema que lembra pirâmide financeira.",
+  "aspectosSelecionados": [
+    "Foco em vendas",
+    "Promessas de dinheiro fácil",
+    "Ausência de conteúdo técnico",
+    "Pressão psicológica",
+    "Ambiente desconfortável"
+  ],
+  "tipoIndicacao": "evento",
+  "especialidade": "Conferência",
+  "link": "https://futureqaexperience.example.com",
+  "email": "alertaevento5@indicacoesdemo.example.com",
+  "data": "2024-09-16T19:43:00Z",
+  "status": "pendente",
+  "id": "neg-9970",
+  "dataRegistro": "2024-09-16T19:48:00Z",
+  "demo": true,
+  "tipoEvento": "Conferência",
+  "organizador": "Future QA Experience",
+  "local": "Belo Horizonte - MG",
+  "promessa": "Networking premium e conteúdo exclusivo",
+  "realidade": "Venda de pacotes e esquema de indicação"
+}

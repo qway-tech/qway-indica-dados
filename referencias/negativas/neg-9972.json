@@ -1,0 +1,33 @@
+{
+  "natureza": "negativa",
+  "titulo": "Workshop presencial trocado por vídeo gravado",
+  "nome": "Automação em 1 Dia",
+  "empresaOuResponsavel": "Academia Automação 360",
+  "area": "Eventos",
+  "areaOutra": "",
+  "tipo": "Evento",
+  "tipoOutro": "",
+  "valor": "R$520,00",
+  "descricao": "Inscrevi-me no workshop Automação em 1 Dia esperando prática presencial, mas na véspera informaram que seria \"edição especial\" com vídeo gravado.\n\nA gravação tinha baixa qualidade, áudio estourado e nenhum suporte para dúvidas.\n\nPedimos reembolso coletivo e a organização alegou que o contrato permitia mudanças sem devolução.\n\nFicamos com um link de vídeo que poderia ser encontrado gratuitamente na internet.",
+  "aspectosSelecionados": [
+    "Mudança de formato sem aviso",
+    "Qualidade ruim",
+    "Sem suporte",
+    "Negativa de reembolso",
+    "Propaganda enganosa"
+  ],
+  "tipoIndicacao": "evento",
+  "especialidade": "Workshop",
+  "link": "https://automacaoemdia.example.com",
+  "email": "alertaevento3@indicacoesdemo.example.com",
+  "data": "2024-09-12T19:09:00Z",
+  "status": "pendente",
+  "id": "neg-9972",
+  "dataRegistro": "2024-09-12T19:14:00Z",
+  "demo": true,
+  "tipoEvento": "Workshop",
+  "organizador": "Academia Automação 360",
+  "local": "São Paulo - SP (prometido)",
+  "promessa": "Experiência presencial com mentoria",
+  "ocorrido": "Vídeo gravado sem acompanhamento"
+}

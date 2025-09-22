@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Especialista em dados de teste que ignorou compliance",
+  "nome": "Eduardo Brites",
+  "empresaOuResponsavel": "EB Data QA",
+  "area": "Governança de Dados",
+  "areaOutra": "",
+  "tipo": "Consultoria estratégica",
+  "tipoOutro": "",
+  "valor": "R$8.000,00",
+  "descricao": "Eduardo foi contratado para estruturar dados de teste anonimizados, porém sugeriu copiar diretamente bases de produção sem mascaramento.\n\nIgnorou alertas de compliance, tratou políticas de privacidade como burocracia e deixou scripts de carga expostos em um repositório público.\n\nQuando questionado, disse que \"todo mundo faz assim\" e que a auditoria não encontraria problemas se ninguém levantasse a bandeira.\n\nO risco reputacional foi enorme e tivemos de refazer todo o trabalho com outra consultoria.",
+  "aspectosSelecionados": [
+    "Desrespeito a compliance",
+    "Sugestões arriscadas",
+    "Documentação insegura",
+    "Postura negligente",
+    "Necessidade de retrabalho"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "Data Quality, Mascaramento de Dados",
+  "link": "https://ebdataqa.example.com",
+  "email": "relato5@indicacoesdemo.example.com",
+  "data": "2024-07-28T12:38:00Z",
+  "status": "pendente",
+  "id": "neg-9995",
+  "dataRegistro": "2024-07-28T12:43:00Z",
+  "demo": true,
+  "normasIgnoradas": "LGPD e política interna de segurança",
+  "exposicao": "Scripts com credenciais publicados sem proteção",
+  "acaoCorretiva": "Contratação emergencial de outra consultoria"
+}

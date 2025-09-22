@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Clube fechado de liderança com discurso elitista",
+  "nome": "QA Leadership Circle",
+  "empresaOuResponsavel": "QA Leadership Circle",
+  "area": "Comunidade",
+  "areaOutra": "",
+  "tipo": "Fórum Online",
+  "tipoOutro": "",
+  "valor": "Anuidade de R$1.200,00",
+  "descricao": "O QA Leadership Circle promete ser uma rede de líderes, mas o espaço é cheio de discursos elitistas e desmotivadores.\n\nQuando alguém pede ajuda prática, as respostas são superficiais ou insinuam que a pessoa não está pronta para liderar.\n\nAs mentorias coletivas viram sessões de autopromoção de quem modera.\n\nNão vi troca genuína, apenas um ambiente que exclui quem não segue a cartilha deles.",
+  "aspectosSelecionados": [
+    "Postura elitista",
+    "Respostas superficiais",
+    "Mentorias autopromocionais",
+    "Preço alto sem entrega",
+    "Falta de acolhimento"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Rede de liderança",
+  "link": "https://qaleadershipcircle.example.com",
+  "email": "alertacomunidade5@indicacoesdemo.example.com",
+  "data": "2024-09-06T18:18:00Z",
+  "status": "pendente",
+  "id": "neg-9975",
+  "dataRegistro": "2024-09-06T18:23:00Z",
+  "demo": true,
+  "beneficiosPrometidos": "Mentorias, networking e benchmark",
+  "realidade": "Interações superficiais e julgamento constante",
+  "politicaReembolso": "0% após 7 dias, mesmo sem usar a plataforma"
+}

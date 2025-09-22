@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Bianca Costa",
+    "texto": "QA Express Outsourcing parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "bianca.costa@example.com",
+    "data": "30/07/2024, 13:06:00"
+  },
+  {
+    "autor": "Fabiana Pires",
+    "texto": "O suporte de QA Express Outsourcing foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "fabiana.pires@example.com",
+    "data": "30/07/2024, 13:12:00"
+  },
+  {
+    "autor": "Priscila Bessa",
+    "texto": "QA Express Outsourcing ignorou feedbacks e manteve uma postura defensiva.",
+    "email": "priscila.bessa@example.com",
+    "data": "30/07/2024, 13:14:00"
+  },
+  {
+    "autor": "Renan Guedes",
+    "texto": "Senti muita falta de transparência da parte de QA Express Outsourcing durante todo o processo.",
+    "email": "renan.guedes@example.com",
+    "data": "30/07/2024, 13:18:00"
+  },
+  {
+    "autor": "Otávio Furtado",
+    "texto": "Recebemos respostas genéricas de QA Express Outsourcing e nenhuma ação concreta.",
+    "email": "otavio.furtado@example.com",
+    "data": "30/07/2024, 13:20:00"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Blog com artigos reciclados e sem revisão",
+  "nome": "Qualidade Sem Segredo",
+  "empresaOuResponsavel": "Agência QS",
+  "area": "Blog Editorial",
+  "areaOutra": "",
+  "tipo": "Blog Editorial",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O blog Qualidade Sem Segredo publica artigos que são praticamente cópias de traduções automáticas sem revisão técnica.\n\nHá recomendações perigosas, como desabilitar logs em produção para \"ganhar performance\".\n\nOs comentários apontando erros ficam presos na moderação e nunca aparecem.\n\nNão dá para confiar num blog que não valida o que publica.",
+  "aspectosSelecionados": [
+    "Tradução ruim",
+    "Erros técnicos",
+    "Moderação opaca",
+    "Ausência de revisão",
+    "Recomendações arriscadas"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Blog de QA",
+  "link": "https://qualidadesemsegredo.example.com",
+  "email": "feedbacknegativo2@indicacoesdemo.example.com",
+  "data": "2024-08-21T16:02:00Z",
+  "status": "pendente",
+  "id": "neg-9983",
+  "dataRegistro": "2024-08-21T16:07:00Z",
+  "demo": true,
+  "artigosProblematicos": "Pelo menos 5 em um mês",
+  "respostaEditores": "Disseram que irão analisar, nada mudou",
+  "publicoAlvo": "Divulgado como material para iniciantes"
+}

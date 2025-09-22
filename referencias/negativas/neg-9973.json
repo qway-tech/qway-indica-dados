@@ -1,0 +1,33 @@
+{
+  "natureza": "negativa",
+  "titulo": "Hackathon sem mentoria e com premiação não paga",
+  "nome": "Bug Hunters Pro",
+  "empresaOuResponsavel": "Bug Hunters Pro",
+  "area": "Eventos",
+  "areaOutra": "",
+  "tipo": "Evento",
+  "tipoOutro": "",
+  "valor": "Inscrição de R$120,00",
+  "descricao": "O hackathon Bug Hunters Pro prometia mentores especialistas e prêmios para os melhores relatórios, mas não entregou nada disso.\n\nNão havia mentores conectados, o ambiente de testes caiu diversas vezes e ninguém do suporte respondia.\n\nApós o evento, anunciaram que o prêmio seria pago \"quando a empresa parceira aprovasse\" e nunca pagaram.\n\nTempo perdido e frustração geral entre os participantes.",
+  "aspectosSelecionados": [
+    "Falta de mentoria",
+    "Infraestrutura instável",
+    "Suporte ausente",
+    "Premiação não paga",
+    "Comunicação inexistente"
+  ],
+  "tipoIndicacao": "evento",
+  "especialidade": "Hackathon",
+  "link": "https://bughunterspro.example.com",
+  "email": "alertaevento2@indicacoesdemo.example.com",
+  "data": "2024-09-10T18:52:00Z",
+  "status": "pendente",
+  "id": "neg-9973",
+  "dataRegistro": "2024-09-10T18:57:00Z",
+  "demo": true,
+  "tipoEvento": "Hackathon",
+  "organizador": "Bug Hunters Pro",
+  "local": "Online",
+  "promessa": "Mentoria 24h e prêmios em dinheiro",
+  "situacao": "Premiação pendente e sem resposta"
+}

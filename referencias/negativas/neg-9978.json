@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Comunidade que virou vitrine de marketing agressivo",
+  "nome": "Bugs Free Hub",
+  "empresaOuResponsavel": "Equipe Bugs Free",
+  "area": "Comunidade",
+  "areaOutra": "",
+  "tipo": "Comunidade no Discord",
+  "tipoOutro": "",
+  "valor": "Mensalidade de R$39,90",
+  "descricao": "O Bugs Free Hub se apresenta como comunidade técnica, porém 90% das mensagens são vendedores divulgando cursos e ferramentas.\n\nOs canais técnicos ficam abandonados e os moderadores incentivam postar cupons de afiliados o tempo todo.\n\nQuem questiona a ausência de conteúdo recebe mensagem privada oferecendo upgrade para um plano mais caro.\n\nCancelar a assinatura foi difícil e não houve reembolso proporcional.",
+  "aspectosSelecionados": [
+    "Marketing agressivo",
+    "Pouco conteúdo técnico",
+    "Moderação interessada em vendas",
+    "Pressão por upgrades",
+    "Dificuldade de cancelamento"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Comunidade paga",
+  "link": "https://bugsfreehub.example.com",
+  "email": "alertacomunidade2@indicacoesdemo.example.com",
+  "data": "2024-08-31T17:27:00Z",
+  "status": "pendente",
+  "id": "neg-9978",
+  "dataRegistro": "2024-08-31T17:32:00Z",
+  "demo": true,
+  "canaisAtivos": "Somente canal de anúncios",
+  "tentativasContato": "3 tickets sem resposta",
+  "promessa": "Acesso a masterminds que nunca acontecem"
+}

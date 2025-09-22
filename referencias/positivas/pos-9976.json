@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Conferência técnica comunitária itinerante sobre qualidade",
+  "nome": "QA Summit Comunidades",
+  "empresaOuResponsavel": "Rede QA Summit",
+  "area": "Comunidade Técnica",
+  "areaOutra": "",
+  "tipo": "Conferência Técnica",
+  "tipoOutro": "",
+  "valor": "R$90,00 (ingresso solidário)",
+  "descricao": "O QA Summit Comunidades é uma conferência técnica organizada de forma colaborativa por comunidades locais de QA.\n\nCada edição ocorre em uma cidade diferente, com trilhas simultâneas, painéis, mentorias express e espaços de networking guiado.\n\nO conteúdo é selecionado via call for papers com curadoria aberta e mentoria para palestrantes iniciantes, garantindo diversidade de vozes.\n\nIndico para quem quer palestrar pela primeira vez, aprender com casos reais e construir conexões com líderes de todo o país.",
+  "aspectosSelecionados": [
+    "Programação colaborativa",
+    "Mentoria para palestrantes",
+    "Ambiente acolhedor",
+    "Curadoria diversa",
+    "Experiência itinerante"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Conferências Comunitárias, Mentoria de Palestrantes, Networking",
+  "link": "https://qasummitcomunidades.example.com",
+  "email": "organiza@qasummitcomunidades.example.com",
+  "data": "2024-11-20T15:31:00Z",
+  "status": "aprovada",
+  "id": "pos-9976",
+  "dataRegistro": "2024-11-20T15:36:00Z",
+  "demo": true,
+  "edicoesRealizadas": "7 edições em 5 estados",
+  "formato": "1 dia de conferência e noite de networking",
+  "organizadores": "Comissão com 15 voluntários",
+  "apoio": "Patrocínios comunitários e empresas parceiras",
+  "beneficiosParticipantes": "Trilhas gravadas, bolsas para estudantes e apoio à acessibilidade"
+}

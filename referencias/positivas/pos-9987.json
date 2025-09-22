@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Podcast que conecta qualidade, produto e engenharia",
+  "nome": "Podcast Loop de Testes",
+  "empresaOuResponsavel": "Estúdio Loop QA",
+  "area": "Testes Ágeis",
+  "areaOutra": "",
+  "tipo": "Podcast",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O Podcast Loop de Testes publica episódios semanais entrevistando lideranças em QA, produto e engenharia.\n\nAs conversas abordam cultura de experimentação, dados de qualidade e desafios de times cross-funcionais sempre ancoradas em cases reais.\n\nCada episódio é acompanhado de um resumo com pontos acionáveis e links de materiais complementares enviados por newsletter.\n\nÓtimo para aprender em movimento com linguagem acessível e visão madura sobre tendências do mercado.",
+  "aspectosSelecionados": [
+    "Curadoria de convidados",
+    "Conteúdo prático",
+    "Publicação consistente",
+    "Materiais extras",
+    "Discussões profundas"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Tendências em QA, Cultura de Qualidade, Observabilidade",
+  "link": "https://loopdetestes.example.com",
+  "email": "loop@loopqa.example.com",
+  "data": "2024-10-29T12:24:00Z",
+  "status": "aprovada",
+  "id": "pos-9987",
+  "dataRegistro": "2024-10-29T12:29:00Z",
+  "demo": true,
+  "frequencia": "Episódios semanais",
+  "duracaoMedia": "45 minutos",
+  "canaisDistribuicao": "Spotify, Apple Podcasts e YouTube",
+  "apoio": "Newsletter com resumos acionáveis",
+  "idiomas": "Português"
+}

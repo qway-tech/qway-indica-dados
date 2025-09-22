@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Meetup que cancela eventos e vira pitch de venda",
+  "nome": "QA Capital Meetup",
+  "empresaOuResponsavel": "Organizadores QA Capital",
+  "area": "Meetup",
+  "areaOutra": "",
+  "tipo": "Meetup Local",
+  "tipoOutro": "",
+  "valor": "Ingresso de R$35,00",
+  "descricao": "O QA Capital cancela eventos de última hora sem reembolsar ou remarcar, alegando falta de patrocínio.\n\nQuando o evento acontece, metade do tempo é tomada por pitches de empresas patrocinadoras.\n\nNão há conteúdo técnico, apenas propaganda, e nem coffee break básico foi oferecido.\n\nA experiência geral passa longe de um meetup colaborativo.",
+  "aspectosSelecionados": [
+    "Cancelamentos sem aviso",
+    "Foco em vendas",
+    "Ausência de conteúdo",
+    "Falta de reembolso",
+    "Estrutura precária"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Meetup",
+  "link": "https://qacapitalmeetup.example.com",
+  "email": "alertacomunidade4@indicacoesdemo.example.com",
+  "data": "2024-09-04T18:01:00Z",
+  "status": "pendente",
+  "id": "neg-9976",
+  "dataRegistro": "2024-09-04T18:06:00Z",
+  "demo": true,
+  "eventosCancelados": "3 eventos consecutivos",
+  "tempoPitch": "50% da agenda",
+  "beneficioOferecido": "Brindes promocionais repetidos"
+}

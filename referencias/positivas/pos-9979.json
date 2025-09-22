@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Meetup nordestino que conecta QA com diversidade de experiências",
+  "nome": "Guilda QA Nordeste",
+  "empresaOuResponsavel": "Organização Guilda QA Nordeste",
+  "area": "QA Colaborativo",
+  "areaOutra": "",
+  "tipo": "Meetup Local",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "A Guilda QA Nordeste reúne encontros presenciais mensais em capitais da região, combinando talks, rodas de conversa e espaços para networking guiado.\n\nOs encontros valorizam sotaques, trajetórias e diversidade, com trilhas específicas para iniciantes, plenos e lideranças.\n\nHá mentoria coletiva, feira de talentos e grupos de estudo que continuam no formato online após cada encontro.\n\nRecomendo para quem busca networking regional genuíno e discussões profundas sobre qualidade.",
+  "aspectosSelecionados": [
+    "Programação inclusiva",
+    "Mentorias coletivas",
+    "Networking regional",
+    "Conteúdo relevante",
+    "Organização impecável"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Comunidades Locais, Mentorias, Desenvolvimento de Carreira",
+  "link": "https://guildaqanordeste.example.com",
+  "email": "contato@guildaqanordeste.example.com",
+  "data": "2024-11-14T14:40:00Z",
+  "status": "aprovada",
+  "id": "pos-9979",
+  "dataRegistro": "2024-11-14T14:45:00Z",
+  "demo": true,
+  "plataforma": "Eventos presenciais com apoio de comunidade no Discord",
+  "publicoAlvo": "Profissionais e estudantes de QA do Nordeste",
+  "moderadores": "Time voluntário com 12 organizadores",
+  "ritmo": "Encontros mensais e ações itinerantes",
+  "apoios": "Parcerias com empresas locais e universidades"
+}

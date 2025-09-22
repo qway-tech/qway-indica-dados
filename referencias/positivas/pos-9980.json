@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Lives com análises profundas e benchmarks de qualidade",
+  "nome": "Insight QA Live",
+  "empresaOuResponsavel": "Estúdio Insight QA",
+  "area": "Estratégia de Qualidade",
+  "areaOutra": "",
+  "tipo": "Canal no YouTube",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O canal Insight QA Live transmite semanalmente análises aprofundadas de tendências e benchmarks de qualidade.\n\nAs lives combinam demonstrações, quadros de perguntas e comparativos de abordagens adotadas por empresas de referência.\n\nApós cada episódio, os hosts compartilham planilhas, roteiros e bibliografias para quem quiser replicar os aprendizados.\n\nRecomendo para quem aprecia discutir métricas e estratégias de longo prazo com uma comunidade engajada.",
+  "aspectosSelecionados": [
+    "Lives interativas",
+    "Materiais disponibilizados",
+    "Benchmarks relevantes",
+    "Debates maduros",
+    "Comunidade participativa"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Estratégia de Qualidade, Métricas, Benchmarks",
+  "link": "https://insightqa.example.com",
+  "email": "live@insightqa.example.com",
+  "data": "2024-11-12T14:23:00Z",
+  "status": "aprovada",
+  "id": "pos-9980",
+  "dataRegistro": "2024-11-12T14:28:00Z",
+  "demo": true,
+  "frequencia": "Lives às terças-feiras",
+  "materialPosLive": "Planilhas, roteiros e bibliografias",
+  "canaisComunicacao": "YouTube e Discord fechado para perguntas",
+  "publicoAlvo": "Lideranças de QA e estrategistas",
+  "formatosExtras": "Boletim quinzenal com highlights"
+}

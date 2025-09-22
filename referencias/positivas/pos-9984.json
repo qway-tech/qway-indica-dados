@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Newsletter semanal com curadoria estratégica de QA",
+  "nome": "QA Radar Weekly",
+  "empresaOuResponsavel": "Equipe QA Radar",
+  "area": "Qualidade de Software",
+  "areaOutra": "",
+  "tipo": "Newsletter",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "A newsletter QA Radar Weekly entrega toda sexta-feira uma curadoria enxuta de notícias, artigos e insights sobre qualidade de software.\n\nO time cruza acontecimentos globais com a realidade brasileira, explicando impactos práticos e sugerindo ações para times diversos.\n\nCada edição traz uma análise aprofundada, um quadro de experimentos recomendados e um radar de eventos relevantes.\n\nÉ leitura certeira para quem quer ficar atualizado sem se perder em links soltos e promoções disfarçadas.",
+  "aspectosSelecionados": [
+    "Curadoria atualizada",
+    "Análises críticas",
+    "Sugestões acionáveis",
+    "Formato conciso",
+    "Radar de eventos"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Curadoria de QA, Tendências de Mercado, Estratégia",
+  "link": "https://qaradar.example.com/assine",
+  "email": "newsletter@qaradar.example.com",
+  "data": "2024-11-04T13:15:00Z",
+  "status": "aprovada",
+  "id": "pos-9984",
+  "dataRegistro": "2024-11-04T13:20:00Z",
+  "demo": true,
+  "frequencia": "Semanal (sextas-feiras)",
+  "publicoAlvo": "Profissionais de QA, produto e engenharia",
+  "volumeAssinantes": "18 mil assinantes",
+  "formatoEntrega": "Email e versão web",
+  "beneficiosExtras": "Acesso antecipado a workshops e descontos"
+}

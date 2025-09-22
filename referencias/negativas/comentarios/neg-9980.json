@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Sabrina Lopes",
+    "texto": "A experiência com QA Express Live foi frustrante e comprometeu nossa credibilidade.",
+    "email": "sabrina.lopes@example.com",
+    "data": "27/08/2024, 17:04:00"
+  },
+  {
+    "autor": "Enzo Vieira",
+    "texto": "QA Express Live parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "enzo.vieira@example.com",
+    "data": "27/08/2024, 17:10:00"
+  },
+  {
+    "autor": "Mateus Antunes",
+    "texto": "Recebemos respostas genéricas de QA Express Live e nenhuma ação concreta.",
+    "email": "mateus.antunes@example.com",
+    "data": "27/08/2024, 17:13:00"
+  },
+  {
+    "autor": "Otávio Furtado",
+    "texto": "O suporte de QA Express Live foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "otavio.furtado@example.com",
+    "data": "27/08/2024, 17:15:00"
+  },
+  {
+    "autor": "Larissa Prado",
+    "texto": "Senti muita falta de transparência da parte de QA Express Live durante todo o processo.",
+    "email": "larissa.prado@example.com",
+    "data": "27/08/2024, 17:16:00"
+  }
+]

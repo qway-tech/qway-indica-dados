@@ -1,0 +1,33 @@
+{
+  "natureza": "negativa",
+  "titulo": "Conferência cara com logística caótica",
+  "nome": "QA Revolution Summit",
+  "empresaOuResponsavel": "QA Revolution Summit",
+  "area": "Eventos",
+  "areaOutra": "",
+  "tipo": "Evento",
+  "tipoOutro": "",
+  "valor": "R$690,00",
+  "descricao": "O QA Revolution Summit vendia experiência premium, porém filas enormes, atraso de horas e salas lotadas foram a regra.\n\nMais da metade das palestras eram pitches de empresas patrocinadoras e os keynotes foram cancelados sem explicação.\n\nNão havia tradução, legendas ou acessibilidade prometida; o coffee break acabou em 15 minutos.\n\nSaí com a sensação de ter pago caro para assistir apresentações improvisadas e desorganizadas.",
+  "aspectosSelecionados": [
+    "Atrasos constantes",
+    "Conteúdo comercial",
+    "Falta de acessibilidade",
+    "Logística ruim",
+    "Custo elevado"
+  ],
+  "tipoIndicacao": "evento",
+  "especialidade": "Conferência",
+  "link": "https://qarevolutionsummit.example.com",
+  "email": "alertaevento1@indicacoesdemo.example.com",
+  "data": "2024-09-08T18:35:00Z",
+  "status": "pendente",
+  "id": "neg-9974",
+  "dataRegistro": "2024-09-08T18:40:00Z",
+  "demo": true,
+  "tipoEvento": "Conferência",
+  "organizador": "QA Revolution Summit",
+  "local": "Rio de Janeiro - RJ",
+  "promessa": "Experiência premium com 4 trilhas",
+  "problemas": "Atrasos, lotação e cancelamentos sem aviso"
+}

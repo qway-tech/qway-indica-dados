@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Canal no Telegram que ativa spam o tempo todo",
+  "nome": "Alertas QA 24/7",
+  "empresaOuResponsavel": "Admin Alertas QA",
+  "area": "Canal de Notícias",
+  "areaOutra": "",
+  "tipo": "Canal no Telegram",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O canal Alertas QA 24/7 promete avisar sobre vagas e eventos, mas na prática envia spam de links suspeitos e promoções sem credibilidade.\n\nDiversos usuários denunciaram golpes em comentários, que foram apagados pelos administradores.\n\nNão há curadoria, conferem qualquer link que pague para ser divulgado.\n\nSaí do canal após receber mensagens privadas oferecendo certificações fraudulentas.",
+  "aspectosSelecionados": [
+    "Spam constante",
+    "Links suspeitos",
+    "Silenciamento de denúncias",
+    "Nenhuma curadoria",
+    "Risco de golpe"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Alertas de QA",
+  "link": "https://t.me/alertasqa247",
+  "email": "feedbacknegativo3@indicacoesdemo.example.com",
+  "data": "2024-08-23T16:19:00Z",
+  "status": "pendente",
+  "id": "neg-9982",
+  "dataRegistro": "2024-08-23T16:24:00Z",
+  "demo": true,
+  "moderacao": "Admins apagam críticas",
+  "relatosGolpes": "Recebi 3 mensagens privadas fraudulentas",
+  "comunidade": "Sem canal de feedback"
+}

@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Fórum online focado em observabilidade e qualidade contínua",
+  "nome": "Fórum Observabilidade Brasil",
+  "empresaOuResponsavel": "Time Observabilidade Brasil",
+  "area": "Observabilidade e QA",
+  "areaOutra": "",
+  "tipo": "Fórum Online",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O Fórum Observabilidade Brasil reúne discussão assíncrona sobre métricas, logging, tracing e confiabilidade sob a ótica da qualidade.\n\nOs tópicos são organizados por stack e nível, com threads aprofundadas, compartilhamento de dashboards e análise de incidentes reais.\n\nMensalmente acontecem sessões AMA com especialistas de empresas referência que respondem perguntas da comunidade ao vivo.\n\nÉ um ambiente seguro para trocar ideias sobre monitoramento sem ruído de propaganda ou respostas superficiais.",
+  "aspectosSelecionados": [
+    "Discussões aprofundadas",
+    "Curadoria técnica",
+    "AMAs mensais",
+    "Recursos compartilhados",
+    "Ambiente seguro"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Observabilidade, Telemetria, Cultura de Confiabilidade",
+  "link": "https://observabilidadebr.example.com",
+  "email": "moderacao@observabilidadebr.example.com",
+  "data": "2024-11-18T15:14:00Z",
+  "status": "aprovada",
+  "id": "pos-9977",
+  "dataRegistro": "2024-11-18T15:19:00Z",
+  "demo": true,
+  "plataforma": "Discourse com integrações para Notion",
+  "moderadores": "Curadoria com 8 especialistas",
+  "eventos": "AMAs mensais e sessões de demo",
+  "recursosFixados": "Biblioteca de dashboards, scripts e runbooks",
+  "publicoAlvo": "SREs, QAs e engenheiros de plataforma"
+}

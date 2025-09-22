@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Consultor de DevSecOps que não entregou diagnóstico",
+  "nome": "Cláudio Arantes",
+  "empresaOuResponsavel": "Cláudio Arantes",
+  "area": "DevSecOps",
+  "areaOutra": "",
+  "tipo": "Consultoria técnica",
+  "tipoOutro": "",
+  "valor": "R$5.600,00",
+  "descricao": "Cláudio foi contratado para mapear riscos de segurança no pipeline de QA, mas passou a maior parte do tempo pedindo documentos que já estavam no escopo.\n\nNa apresentação final trouxe um relatório genérico reaproveitado de outro cliente e não contextualizou nenhuma recomendação.\n\nQuestionado sobre as diferenças entre ambientes, respondeu que bastava \"ajustar alguns detalhes\" e encerrou a call sem permitir perguntas.\n\nSentimos que não houve trabalho real e que ele não conhecia as ferramentas que afirmava dominar.",
+  "aspectosSelecionados": [
+    "Relatório genérico",
+    "Sem tempo para perguntas",
+    "Desconhecimento técnico",
+    "Atraso na entrega",
+    "Falta de transparência"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "DevSecOps, Segurança em Pipelines, Auditoria",
+  "link": "https://claudioarantesdevsec.example.com",
+  "email": "relato3@indicacoesdemo.example.com",
+  "data": "2024-07-24T12:04:00Z",
+  "status": "pendente",
+  "id": "neg-9997",
+  "dataRegistro": "2024-07-24T12:09:00Z",
+  "demo": true,
+  "prazoContratado": "3 semanas",
+  "materialEntregue": "Relatório padrão sem diagnóstico",
+  "ferramentasPrometidas": "Integrations com SonarQube e OWASP ZAP que nunca foram configuradas"
+}

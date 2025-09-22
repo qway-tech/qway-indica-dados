@@ -1,0 +1,32 @@
+{
+  "natureza": "positiva",
+  "titulo": "Squads de QA sob medida com setup acelerado",
+  "nome": "Forward Testing House",
+  "empresaOuResponsavel": "Forward Testing House",
+  "area": "Serviços Gerenciados",
+  "areaOutra": "",
+  "tipo": "Squad alocado",
+  "tipoOutro": "",
+  "valor": "Contratos a partir de R$70.000,00/trimestre",
+  "descricao": "Forward Testing House mantém squads dedicados de QA que se integram rapidamente aos rituais do cliente, trazendo liderança técnica, analista funcional e especialistas em automação.\n\nCada célula chega com frameworks de testes pré-configurados, pipeline de CI/CD básico e boas práticas de documentação para acelerar a primeira sprint.\n\nUm diferencial é o laboratório interno de devices físicos e virtuais, reduzindo drasticamente o tempo de setup para testes mobile e cross-browser.\n\nIdeal para empresas que precisam reforçar capacidade de QA enquanto constroem um time interno, mantendo transparência em relatórios semanais executivos.",
+  "aspectosSelecionados": [
+    "Squads completos",
+    "Integração ágil aos ritos do cliente",
+    "Laboratório de devices próprio",
+    "Relatórios executivos semanais",
+    "Transição suave de conhecimento"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "QA Híbrido, Automação Multiplataforma, Testes Exploratórios",
+  "link": "https://forwardtesting.example.com",
+  "email": "parcerias@forwardtesting.example.com",
+  "data": "2024-10-17T10:42:00Z",
+  "status": "aprovada",
+  "id": "pos-9993",
+  "dataRegistro": "2024-10-17T10:47:00Z",
+  "demo": true,
+  "modeloEngajamento": "Equipe remota dedicada com visitas presenciais trimestrais",
+  "coberturaHoraria": "Horário comercial com plantões críticos",
+  "setoresAtendidos": "Varejo digital, seguros e mobilidade urbana",
+  "laboratorio": "Device lab próprio com mais de 60 aparelhos"
+}

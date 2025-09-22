@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Mentor de automação que prometeu demais e desapareceu",
+  "nome": "Leonardo Prado",
+  "empresaOuResponsavel": "Leonardo Prado",
+  "area": "Testes Automatizados",
+  "areaOutra": "",
+  "tipo": "Mentoria individual",
+  "tipoOutro": "",
+  "valor": "R$2.400,00/pacote",
+  "descricao": "Contratamos Leonardo Prado para uma mentoria de automação, mas desde o início ele atrasou todas as sessões e pedia reagendamentos em cima da hora.\n\nOs materiais entregues eram slides genéricos, sem conexão com o nosso contexto, e ele evitava entrar em detalhes técnicos prometidos na proposta.\n\nNas poucas sessões realizadas, passou mais tempo falando de histórias pessoais do que revisando código ou pipeline como combinado.\n\nDepois da segunda semana simplesmente parou de responder e não devolveu o valor restante, deixando o time sem suporte.",
+  "aspectosSelecionados": [
+    "Promessas não cumpridas",
+    "Materiais superficiais",
+    "Pouca disponibilidade",
+    "Comunicação confusa",
+    "Suporte inexistente"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "Automação de Testes, Cypress, CI/CD",
+  "link": "https://leonardopradoqa.example.com",
+  "email": "relato1@indicacoesdemo.example.com",
+  "data": "2024-07-20T11:30:00Z",
+  "status": "pendente",
+  "id": "neg-9999",
+  "dataRegistro": "2024-07-20T11:35:00Z",
+  "demo": true,
+  "problemasObservados": "Mentorias canceladas, entrega superficial e ausência de reembolso",
+  "tentativasDeContato": "5 e-mails e 3 mensagens sem retorno",
+  "garantiaPrometida": "Suporte por 30 dias, que nunca aconteceu"
+}

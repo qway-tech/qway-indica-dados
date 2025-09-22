@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Comunidade segura para mulheres líderes em QA",
+  "nome": "QA Mulheres Lideranças",
+  "empresaOuResponsavel": "Coletivo QA Mulheres",
+  "area": "Liderança e Carreira",
+  "areaOutra": "",
+  "tipo": "Fórum Online",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "QA Mulheres Lideranças promove um espaço seguro para gestoras e líderes técnicas de QA trocarem experiências e desafios do dia a dia.\n\nA comunidade oferece canais privados para discussões sobre gestão, carreira, políticas de equidade e negociação com stakeholders.\n\nHá círculos de mentoria cruzada com calendário trimestral e encontros fechados com especialistas convidados.\n\nRecomendo para mulheres em cargos de liderança que buscam suporte prático e rede de confiança.",
+  "aspectosSelecionados": [
+    "Ambiente seguro",
+    "Mentorias cruzadas",
+    "Encontros exclusivos",
+    "Discussões estratégicas",
+    "Rede de apoio ativa"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Liderança de QA, Diversidade, Desenvolvimento de Carreira",
+  "link": "https://qamulheresliderancas.example.com",
+  "email": "moderacao@qamulheresliderancas.example.com",
+  "data": "2024-11-22T15:48:00Z",
+  "status": "aprovada",
+  "id": "pos-9975",
+  "dataRegistro": "2024-11-22T15:53:00Z",
+  "demo": true,
+  "plataforma": "Slack privado com moderação",
+  "participantes": "Mais de 420 líderes registradas",
+  "programas": "Círculos de mentoria, grupos de estudo e job board",
+  "regras": "Código de conduta e acordo de confidencialidade",
+  "apoios": "Parcerias com iniciativas de diversidade e fundos de bolsas"
+}

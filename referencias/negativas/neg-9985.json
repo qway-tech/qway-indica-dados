@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Workshop de performance com gravação ruim e sem suporte",
+  "nome": "Performance Fast Track",
+  "empresaOuResponsavel": "Studio Fast Track QA",
+  "area": "Performance",
+  "areaOutra": "",
+  "tipo": "Workshop Gravado",
+  "tipoOutro": "",
+  "valor": "R$349,00",
+  "descricao": "O workshop Performance Fast Track consistia em vídeos gravados numa sala barulhenta com slides ilegíveis.\n\nAs ferramentas escolhidas estavam descontinuadas e não havia arquivos de exemplo para acompanhar a prática.\n\nO suporte prometido por e-mail nunca respondeu, mesmo após três semanas de tentativa.\n\nSaí com a sensação de desperdício de tempo e dinheiro, sem nenhum aprendizado aplicável.",
+  "aspectosSelecionados": [
+    "Áudio e vídeo ruins",
+    "Ferramentas obsoletas",
+    "Falta de materiais",
+    "Suporte inexistente",
+    "Retorno negativo"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Performance (prometida)",
+  "link": "https://performancefasttrack.example.com",
+  "email": "denuncia5@indicacoesdemo.example.com",
+  "data": "2024-08-17T15:28:00Z",
+  "status": "pendente",
+  "id": "neg-9985",
+  "dataRegistro": "2024-08-17T15:33:00Z",
+  "demo": true,
+  "garantia": "Prometeram 7 dias de garantia, ignorada",
+  "plataforma": "Hotmart com acesso instável",
+  "arquivosDisponiveis": "Nenhum material para download"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Gilberto Ramos",
+    "texto": "A comunicação de Cláudio Arantes é confusa e atrasou entregas importantes.",
+    "email": "gilberto.ramos@example.com",
+    "data": "24/07/2024, 12:18:00"
+  },
+  {
+    "autor": "Ícaro Neves",
+    "texto": "Cláudio Arantes parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "icaro.neves@example.com",
+    "data": "24/07/2024, 12:21:00"
+  },
+  {
+    "autor": "Cléber Nogueira",
+    "texto": "Infelizmente Cláudio Arantes não entregou o que prometeu e gerou retrabalho.",
+    "email": "cleber.nogueira@example.com",
+    "data": "24/07/2024, 12:24:00"
+  },
+  {
+    "autor": "Fabiana Pires",
+    "texto": "O suporte de Cláudio Arantes foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "fabiana.pires@example.com",
+    "data": "24/07/2024, 12:26:00"
+  },
+  {
+    "autor": "Heloísa Martins",
+    "texto": "Recebemos respostas genéricas de Cláudio Arantes e nenhuma ação concreta.",
+    "email": "heloisa.martins@example.com",
+    "data": "24/07/2024, 12:27:00"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Otávio Furtado",
+    "texto": "A experiência com Patrícia Gomes foi frustrante e comprometeu nossa credibilidade.",
+    "email": "otavio.furtado@example.com",
+    "data": "26/07/2024, 12:34:00"
+  },
+  {
+    "autor": "Cléber Nogueira",
+    "texto": "Infelizmente Patrícia Gomes não entregou o que prometeu e gerou retrabalho.",
+    "email": "cleber.nogueira@example.com",
+    "data": "26/07/2024, 12:36:00"
+  },
+  {
+    "autor": "Heloísa Martins",
+    "texto": "Patrícia Gomes parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "heloisa.martins@example.com",
+    "data": "26/07/2024, 12:38:00"
+  },
+  {
+    "autor": "Ícaro Neves",
+    "texto": "O suporte de Patrícia Gomes foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "icaro.neves@example.com",
+    "data": "26/07/2024, 12:41:00"
+  },
+  {
+    "autor": "Gilberto Ramos",
+    "texto": "Recebemos respostas genéricas de Patrícia Gomes e nenhuma ação concreta.",
+    "email": "gilberto.ramos@example.com",
+    "data": "26/07/2024, 12:45:00"
+  }
+]

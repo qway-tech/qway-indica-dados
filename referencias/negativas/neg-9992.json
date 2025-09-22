@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Laboratório que vendeu automação e entregou scripts obsoletos",
+  "nome": "Checkmate Labs",
+  "empresaOuResponsavel": "Checkmate Labs",
+  "area": "Automação de Testes",
+  "areaOutra": "",
+  "tipo": "Fábrica de Automação",
+  "tipoOutro": "",
+  "valor": "R$130.000,00/projeto",
+  "descricao": "A Checkmate Labs prometeu implementar automação moderna, mas entregou scripts antigos em Selenium IDE sem versionamento e sem padronização.\n\nOs testes eram instáveis, dependiam de sleeps gigantes e não rodavam em paralelo como havíamos especificado.\n\nQuando solicitamos ajustes, sugeriram contratar um pacote adicional alegando que \"estabilidade não estava no escopo\".\n\nA equipe interna precisou reescrever tudo do zero para ter algo minimamente confiável.",
+  "aspectosSelecionados": [
+    "Tecnologia desatualizada",
+    "Scripts instáveis",
+    "Escopo mal definido",
+    "Upsell forçado",
+    "Necessidade de retrabalho"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Automação (prometida)",
+  "link": "https://checkmatelabsqa.example.com",
+  "email": "alerta3@indicacoesdemo.example.com",
+  "data": "2024-08-03T13:29:00Z",
+  "status": "pendente",
+  "id": "neg-9992",
+  "dataRegistro": "2024-08-03T13:34:00Z",
+  "demo": true,
+  "frameworkPrometido": "Cypress com CI integrado",
+  "frameworkEntregue": "Selenium IDE exportado sem manutenção",
+  "impacto": "Duas sprints perdidas e confiança abalada"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Otávio Furtado",
+    "texto": "Qualidade Sem Segredo parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "otavio.furtado@example.com",
+    "data": "21/08/2024, 16:14:00"
+  },
+  {
+    "autor": "Bianca Costa",
+    "texto": "A comunicação de Qualidade Sem Segredo é confusa e atrasou entregas importantes.",
+    "email": "bianca.costa@example.com",
+    "data": "21/08/2024, 16:17:00"
+  },
+  {
+    "autor": "Larissa Prado",
+    "texto": "Recebemos respostas genéricas de Qualidade Sem Segredo e nenhuma ação concreta.",
+    "email": "larissa.prado@example.com",
+    "data": "21/08/2024, 16:21:00"
+  },
+  {
+    "autor": "Enzo Vieira",
+    "texto": "Senti muita falta de transparência da parte de Qualidade Sem Segredo durante todo o processo.",
+    "email": "enzo.vieira@example.com",
+    "data": "21/08/2024, 16:24:00"
+  },
+  {
+    "autor": "Cléber Nogueira",
+    "texto": "O suporte de Qualidade Sem Segredo foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "cleber.nogueira@example.com",
+    "data": "21/08/2024, 16:26:00"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "E-book profundo sobre confiabilidade em APIs",
+  "nome": "API Reliability Playbook",
+  "empresaOuResponsavel": "Guilda API Quality",
+  "area": "Integrações de API",
+  "areaOutra": "",
+  "tipo": "E-book",
+  "tipoOutro": "",
+  "valor": "R$89,00",
+  "descricao": "O API Reliability Playbook é um e-book de 200 páginas escrito por líderes de QA e engenharia que lidam com integrações de missão crítica.\n\nA publicação detalha métricas de confiabilidade, coerência de contratos e padrões arquiteturais para ambientes distribuídos.\n\nCada capítulo traz estudos de caso, checklists reutilizáveis e scripts comentados em múltiplas linguagens para acelerar implementações.\n\nExcelente para profissionais que precisam elevar a robustez das integrações e defender observabilidade com argumentos sólidos.",
+  "aspectosSelecionados": [
+    "Conteúdo profundo",
+    "Casos reais",
+    "Checklists reutilizáveis",
+    "Visão multidisciplinar",
+    "Material complementar"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "QA de APIs, Observabilidade, Contratos",
+  "link": "https://apiplaybook.example.com",
+  "email": "contato@guildaapi.example.com",
+  "data": "2024-10-27T12:07:00Z",
+  "status": "aprovada",
+  "id": "pos-9988",
+  "dataRegistro": "2024-10-27T12:12:00Z",
+  "demo": true,
+  "formato": "PDF interativo",
+  "nivel": "Intermediário-Avançado",
+  "bonus": "Templates de monitoração e scripts Postman",
+  "paginas": "200 páginas",
+  "atualizacoes": "Atualizações trimestrais incluídas"
+}

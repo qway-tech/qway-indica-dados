@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Enzo Vieira",
+    "texto": "A experiência com Alertas QA 24/7 foi frustrante e comprometeu nossa credibilidade.",
+    "email": "enzo.vieira@example.com",
+    "data": "23/08/2024, 16:33:00"
+  },
+  {
+    "autor": "Heloísa Martins",
+    "texto": "Infelizmente Alertas QA 24/7 não entregou o que prometeu e gerou retrabalho.",
+    "email": "heloisa.martins@example.com",
+    "data": "23/08/2024, 16:35:00"
+  },
+  {
+    "autor": "Mateus Antunes",
+    "texto": "A comunicação de Alertas QA 24/7 é confusa e atrasou entregas importantes.",
+    "email": "mateus.antunes@example.com",
+    "data": "23/08/2024, 16:38:00"
+  },
+  {
+    "autor": "Larissa Prado",
+    "texto": "Alertas QA 24/7 parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "larissa.prado@example.com",
+    "data": "23/08/2024, 16:42:00"
+  },
+  {
+    "autor": "Cléber Nogueira",
+    "texto": "Alertas QA 24/7 ignorou feedbacks e manteve uma postura defensiva.",
+    "email": "cleber.nogueira@example.com",
+    "data": "23/08/2024, 16:44:00"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "natureza": "positiva",
+  "titulo": "Consultoria que escala chapters de QA com governança leve",
+  "nome": "Atlas Quality Partners",
+  "empresaOuResponsavel": "Equipe Atlas Quality",
+  "area": "Consultoria",
+  "areaOutra": "",
+  "tipo": "Consultoria especializada",
+  "tipoOutro": "",
+  "valor": "Planos a partir de R$18.000,00/mês",
+  "descricao": "Atlas Quality Partners é uma consultoria boutique que ajuda empresas a estruturar chapters de QA do zero ou a redesenhar estruturas existentes sem perder autonomia dos times.\n\nO trabalho começa com um diagnóstico de maturidade, entrevistas com lideranças e co-criação de planos de melhoria por tribo, sempre conectando métricas de qualidade às metas de negócio.\n\nA entrega inclui playbooks vivos, trilhas de capacitação, ritos de governança e apoio no recrutamento de lideranças de qualidade quando necessário.\n\nFunciona muito bem para organizações em crescimento acelerado que precisam escalar qualidade com governança leve e clareza de prioridades.",
+  "aspectosSelecionados": [
+    "Diagnóstico detalhado",
+    "Playbooks personalizados",
+    "Suporte na contratação",
+    "Foco em métricas acionáveis",
+    "Comunicação transparente"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Estratégia de Qualidade, Design Organizacional, Capacitação",
+  "link": "https://atlasquality.example.com",
+  "email": "contato@atlasquality.example.com",
+  "data": "2024-10-15T10:25:00Z",
+  "status": "aprovada",
+  "id": "pos-9994",
+  "dataRegistro": "2024-10-15T10:30:00Z",
+  "demo": true,
+  "porte": "Equipe de 25 consultores seniores",
+  "modelosEntrega": "Descoberta, co-criação e acompanhamento trimestral",
+  "principaisClientes": "Scale-ups de fintech, edtech e e-commerce",
+  "canaisSuporte": "Customer success dedicado e comunidade proprietária"
+}

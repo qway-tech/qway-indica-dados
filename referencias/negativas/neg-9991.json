@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Plataforma de métricas que funcionava apenas em planilhas",
+  "nome": "TrackQuality Insights",
+  "empresaOuResponsavel": "TrackQuality Insights",
+  "area": "Analytics",
+  "areaOutra": "",
+  "tipo": "Plataforma SaaS",
+  "tipoOutro": "",
+  "valor": "R$12.500,00/mês",
+  "descricao": "A TrackQuality vendeu uma plataforma SaaS para gerir métricas de QA, porém o \"produto\" era uma planilha complexa com macros instáveis.\n\nNão havia integração com ferramentas de desenvolvimento e dependíamos de importações manuais diárias.\n\nQuando as macros quebravam, o suporte demorava dias para responder e culpava nosso time por usar Excel diferente.\n\nNo fim cancelamos a assinatura porque não existia plataforma alguma, apenas promessa.",
+  "aspectosSelecionados": [
+    "Produto inexistente",
+    "Integrações ausentes",
+    "Suporte lento",
+    "Responsabilização indevida",
+    "Custo alto para pouco valor"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Métricas de QA",
+  "link": "https://trackqualityinsights.example.com",
+  "email": "alerta4@indicacoesdemo.example.com",
+  "data": "2024-08-05T13:46:00Z",
+  "status": "pendente",
+  "id": "neg-9991",
+  "dataRegistro": "2024-08-05T13:51:00Z",
+  "demo": true,
+  "provaConceito": "Ambiente demo com dados fictícios nunca disponibilizado",
+  "tentativaIntegracao": "Jira e GitHub recusados com justificativa fraca",
+  "cancelamento": "Rescisão antecipada sem restituição proporcional"
+}

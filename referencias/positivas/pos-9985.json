@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Workshop gravado sobre performance e storytelling",
+  "nome": "Oficina Performance Radar",
+  "empresaOuResponsavel": "Coletivo Performance Radar",
+  "area": "Performance",
+  "areaOutra": "",
+  "tipo": "Workshop Gravado",
+  "tipoOutro": "",
+  "valor": "R$297,00",
+  "descricao": "A Oficina Performance Radar oferece uma imersão em performance testing com foco em diagnóstico e storytelling de resultados.\n\nO conteúdo combina gravações completas de workshops, estudos de caso reais e sessões de perguntas com especialistas convidados.\n\nAs planilhas de baseline e dashboards modelo ajudam a construir relatórios que executivos entendem rapidamente e confiam nos números.\n\nIndicado para quem precisa estruturar capacidades de performance sem depender de consultorias externas.",
+  "aspectosSelecionados": [
+    "Estudos de caso reais",
+    "Ferramentas prontas",
+    "Explicações claras",
+    "Foco em storytelling",
+    "Suporte contínuo"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Testes de Performance, Observabilidade, Comunicação Executiva",
+  "link": "https://performanceradar.example.com",
+  "email": "suporte@performanceradar.example.com",
+  "data": "2024-11-02T12:58:00Z",
+  "status": "aprovada",
+  "id": "pos-9985",
+  "dataRegistro": "2024-11-02T13:03:00Z",
+  "demo": true,
+  "cargaHoraria": "12 horas",
+  "recursos": "Planilhas de baseline, scripts JMeter e dashboards modelo",
+  "nivel": "Intermediário",
+  "formato": "Workshop gravado com plantões mensais ao vivo",
+  "certificacao": "Badge digital emitido via Credly"
+}

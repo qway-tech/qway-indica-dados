@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Arquiteto de testes automatizados para produtos mobile",
+  "nome": "Marcelo Bartolomeu",
+  "empresaOuResponsavel": "MB Quality Studio",
+  "area": "Testes Automatizados",
+  "areaOutra": "",
+  "tipo": "Consultoria de automação",
+  "tipoOutro": "",
+  "valor": "R$12.000,00/projeto piloto",
+  "descricao": "Marcelo Bartolomeu é arquiteto de testes automatizados com foco em aplicativos mobile e integrações críticas.\n\nEle inicia o trabalho configurando um laboratório de devices, mapeia riscos e define critérios pragmáticos de priorização para automação.\n\nNa healthtech em que atuamos, entregou uma suíte Appium modular, adicionou monitoração com Playwright para o painel web e integrou tudo ao pipeline CI/CD.\n\nIndicado para startups em scale-up que precisam de cobertura rápida sem travar releases semanais.",
+  "aspectosSelecionados": [
+    "Setup técnico ágil",
+    "Documentação de arquitetura",
+    "Mentoria para time interno",
+    "Integração com CI/CD",
+    "Foco em ROI da automação"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "Automação Mobile, Estratégias de Testes, BDD",
+  "link": "https://mbquality.example.com",
+  "email": "marcelo@mbquality.example.com",
+  "data": "2024-10-11T09:51:00Z",
+  "status": "aprovada",
+  "id": "pos-9996",
+  "dataRegistro": "2024-10-11T09:56:00Z",
+  "demo": true,
+  "tempoExperiencia": "9 anos",
+  "stackPrincipal": "Appium, Detox, Playwright, BrowserStack",
+  "publicoAlvo": "Startups mobile-first e squads multiplataforma",
+  "diferenciais": "Componentização reutilizável e métricas de confiabilidade",
+  "formatosAtendimento": "Programa de 8 semanas com weekly reviews"
+}

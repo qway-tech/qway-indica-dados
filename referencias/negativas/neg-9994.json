@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Outsourcing que trocou toda a equipe sem aviso",
+  "nome": "QA Express Outsourcing",
+  "empresaOuResponsavel": "QA Express Outsourcing",
+  "area": "Serviços Gerenciados",
+  "areaOutra": "",
+  "tipo": "Empresa de Outsourcing",
+  "tipoOutro": "",
+  "valor": "Contrato de R$58.000,00/mês",
+  "descricao": "Contratamos a QA Express para alocar um squad de qualidade, mas em dois meses trocaram todas as pessoas sem avisar previamente.\n\nNão houve handover, os acessos ficaram quebrados e os novos profissionais chegaram sem contexto das entregas em andamento.\n\nOs relatórios enviados eram copiados de outra conta, inclusive com o nome de outro cliente no cabeçalho.\n\nA transparência prometida em contrato nunca existiu e tivemos de cancelar o contrato deixando vários buracos no backlog.",
+  "aspectosSelecionados": [
+    "Rotatividade alta",
+    "Falta de transparência",
+    "Documentação inconsistente",
+    "Onboarding inexistente",
+    "Indicadores maquiados"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Outsourcing de QA (prometido)",
+  "link": "https://qaexpressoutsourcing.example.com",
+  "email": "alerta1@indicacoesdemo.example.com",
+  "data": "2024-07-30T12:55:00Z",
+  "status": "pendente",
+  "id": "neg-9994",
+  "dataRegistro": "2024-07-30T13:00:00Z",
+  "demo": true,
+  "acordoSLAs": "Daily reports e handover semanal nunca cumpridos",
+  "pontosCriticos": "Acessos perdidos e dados sensíveis compartilhados em planilhas abertas",
+  "resultado": "Rescisão antecipada e reconstrução interna do time"
+}

@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Mentora de liderança que reutilizou planos genéricos",
+  "nome": "Patrícia Gomes",
+  "empresaOuResponsavel": "Patrícia Gomes Leadership",
+  "area": "Liderança em QA",
+  "areaOutra": "",
+  "tipo": "Mentoria de liderança",
+  "tipoOutro": "",
+  "valor": "R$3.900,00",
+  "descricao": "Patrícia prometeu construir planos de desenvolvimento sob medida para líderes de QA, mas entregou documentos com logos de outras empresas.\n\nOs exemplos citados não faziam sentido para nossas estruturas e não houve nenhum follow-up depois da primeira entrega.\n\nEla também não compareceu à reunião de feedback final alegando conflito de agenda e enviou áudio sugerindo renovar o pacote sem corrigir os problemas.\n\nA equipe perdeu tempo tentando adaptar materiais que claramente eram genéricos e desatualizados.",
+  "aspectosSelecionados": [
+    "Material reaproveitado",
+    "Ausência de follow-up",
+    "Desalinhamento com a realidade",
+    "Pouco profissionalismo",
+    "Pressão para renovar"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "Liderança de QA, Desenvolvimento de Pessoas",
+  "link": "https://patriciagomesleadership.example.com",
+  "email": "relato4@indicacoesdemo.example.com",
+  "data": "2024-07-26T12:21:00Z",
+  "status": "pendente",
+  "id": "neg-9996",
+  "dataRegistro": "2024-07-26T12:26:00Z",
+  "demo": true,
+  "publicoAlvoPrometido": "Coordenadores e chapter leads",
+  "formatosOferecidos": "Mentorias quinzenais que não aconteceram",
+  "documentosEntregues": "Planos genéricos sem contexto"
+}

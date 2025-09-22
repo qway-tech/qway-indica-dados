@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Bootcamp caro com conteúdo reciclado",
+  "nome": "Bootcamp QA Turbo",
+  "empresaOuResponsavel": "Instituto QA Turbo",
+  "area": "Formação em QA",
+  "areaOutra": "",
+  "tipo": "Curso Online",
+  "tipoOutro": "",
+  "valor": "R$2.997,00",
+  "descricao": "O Bootcamp QA Turbo prometia formação intensiva com projetos reais, mas as aulas eram gravações antigas de 2021 sem atualização.\n\nOs exercícios práticos não funcionavam porque dependiam de APIs fora do ar e ninguém da equipe respondia no fórum.\n\nO certificado foi enviado com erro no meu nome e sem validação alguma, impossibilitando uso profissional.\n\nA escola só apareceu novamente para tentar vender um pacote \"avançado\" antes mesmo de corrigir os problemas.",
+  "aspectosSelecionados": [
+    "Conteúdo desatualizado",
+    "Suporte inexistente",
+    "Laboratórios quebrados",
+    "Certificado sem validade",
+    "Pressão para upsell"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Formação em QA (prometida)",
+  "link": "https://bootcampqaturbo.example.com",
+  "email": "denuncia1@indicacoesdemo.example.com",
+  "data": "2024-08-09T14:20:00Z",
+  "status": "pendente",
+  "id": "neg-9989",
+  "dataRegistro": "2024-08-09T14:25:00Z",
+  "demo": true,
+  "cargaHorariaPrometida": "120 horas",
+  "cargaHorariaReal": "Aulas gravadas somando 40 horas",
+  "plataforma": "Ambiente Moodle com bugs constantes"
+}

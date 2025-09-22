@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Canal de notícias que acompanha movimentações do mercado de QA",
+  "nome": "Qualidade Agora",
+  "empresaOuResponsavel": "Redação Qualidade Agora",
+  "area": "Mercado de QA",
+  "areaOutra": "",
+  "tipo": "Canal de Notícias",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O portal Qualidade Agora publica notícias diárias sobre movimentos do mercado de QA, testes e plataformas de confiança digital.\n\nAs matérias são curtas e objetivas, explicando o impacto de fusões, frameworks emergentes e mudanças de regulação.\n\nHá editorias específicas para carreira, ferramentas recém-lançadas e legislações que afetam times de qualidade.\n\nPerfeito para lideranças que precisam informar seus times com rapidez e contexto.",
+  "aspectosSelecionados": [
+    "Atualizações diárias",
+    "Cobertura de mercado",
+    "Seção regulatória",
+    "Comparativos rápidos",
+    "Equipe experiente"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Tendências de Mercado, Regulação, Ferramentas",
+  "link": "https://qualidadeagora.example.com",
+  "email": "redacao@qualidadeagora.example.com",
+  "data": "2024-11-08T13:49:00Z",
+  "status": "aprovada",
+  "id": "pos-9982",
+  "dataRegistro": "2024-11-08T13:54:00Z",
+  "demo": true,
+  "frequencia": "Atualização diária",
+  "canais": "Portal web e push no Telegram",
+  "editorias": "Mercado, Regulação, Ferramentas e Carreira",
+  "linhaEditorial": "Objetiva e sem publieditorial escondido",
+  "regioesCobertas": "Brasil e América Latina"
+}

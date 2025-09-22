@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Grupo de WhatsApp com debates estruturados de testes exploratórios",
+  "nome": "Tribo Exploradores de Bugs",
+  "empresaOuResponsavel": "Equipe voluntária Tribo Exploradores",
+  "area": "Testes Exploratórios",
+  "areaOutra": "",
+  "tipo": "Grupo no WhatsApp",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "A Tribo Exploradores de Bugs mantém um grupo de WhatsApp com debates diários focados em testes exploratórios e heurísticas.\n\nTodos os dias um moderador lança um caso real ou uma pergunta provocativa, e o grupo constrói hipóteses e roteiros colaborativamente.\n\nHá plantões semanais no Meet para aprofundar os temas e um drive compartilhado com materiais compilados pela comunidade.\n\nÓtimo para quem gosta de aprendizado rápido e quer compartilhar achados com pares experientes.",
+  "aspectosSelecionados": [
+    "Discussões diárias",
+    "Moderadores presentes",
+    "Material compartilhado",
+    "Ambiente respeitoso",
+    "Eventos complementares"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Testes Exploratórios, Heurísticas, Colaboração",
+  "link": "https://triboexploradores.example.com",
+  "email": "moderacao@triboexploradores.example.com",
+  "data": "2024-11-16T14:57:00Z",
+  "status": "aprovada",
+  "id": "pos-9978",
+  "dataRegistro": "2024-11-16T15:02:00Z",
+  "demo": true,
+  "participantes": "Mais de 350 membros ativos",
+  "regras": "Código de conduta com moderação diária",
+  "rituais": "Casos diários às 9h e plantões semanais",
+  "ferramentas": "Google Drive com roteiros e templates",
+  "canalSecundario": "Canal no Telegram para anúncios"
+}

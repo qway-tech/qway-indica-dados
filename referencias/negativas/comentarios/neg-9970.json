@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Débora Freire",
+    "texto": "Infelizmente Future QA Experience não entregou o que prometeu e gerou retrabalho.",
+    "email": "debora.freire@example.com",
+    "data": "16/09/2024, 19:54:00"
+  },
+  {
+    "autor": "Juliana Campos",
+    "texto": "O suporte de Future QA Experience foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "juliana.campos@example.com",
+    "data": "16/09/2024, 19:58:00"
+  },
+  {
+    "autor": "Priscila Bessa",
+    "texto": "Senti muita falta de transparência da parte de Future QA Experience durante todo o processo.",
+    "email": "priscila.bessa@example.com",
+    "data": "16/09/2024, 20:02:00"
+  },
+  {
+    "autor": "Renan Guedes",
+    "texto": "Future QA Experience parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "renan.guedes@example.com",
+    "data": "16/09/2024, 20:04:00"
+  },
+  {
+    "autor": "Thiago Magalhães",
+    "texto": "Future QA Experience ignorou feedbacks e manteve uma postura defensiva.",
+    "email": "thiago.magalhaes@example.com",
+    "data": "16/09/2024, 20:07:00"
+  }
+]

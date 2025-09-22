@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Enzo Vieira",
+    "texto": "O suporte de QA Revolution Summit foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "enzo.vieira@example.com",
+    "data": "08/09/2024, 18:46:00"
+  },
+  {
+    "autor": "Priscila Bessa",
+    "texto": "Senti muita falta de transparência da parte de QA Revolution Summit durante todo o processo.",
+    "email": "priscila.bessa@example.com",
+    "data": "08/09/2024, 18:51:00"
+  },
+  {
+    "autor": "Cléber Nogueira",
+    "texto": "Infelizmente QA Revolution Summit não entregou o que prometeu e gerou retrabalho.",
+    "email": "cleber.nogueira@example.com",
+    "data": "08/09/2024, 18:52:00"
+  },
+  {
+    "autor": "Sabrina Lopes",
+    "texto": "A comunicação de QA Revolution Summit é confusa e atrasou entregas importantes.",
+    "email": "sabrina.lopes@example.com",
+    "data": "08/09/2024, 18:58:00"
+  },
+  {
+    "autor": "Renan Guedes",
+    "texto": "QA Revolution Summit ignorou feedbacks e manteve uma postura defensiva.",
+    "email": "renan.guedes@example.com",
+    "data": "08/09/2024, 19:00:00"
+  }
+]

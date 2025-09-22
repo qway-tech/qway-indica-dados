@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Artigos acessíveis e inspiradores sobre qualidade de software, carreira e comunidade.",
+  "nome": "Blog da QWay",
+  "empresaOuResponsavel": "Daniel Castro",
+  "area": "QA",
+  "areaOutra": "",
+  "tipo": "Blog",
+  "tipoOutro": "",
+  "valor": "https://blog.qway.com.br",
+  "descricao": "O blog da QWay é um espaço criado com carinho para quem está na jornada da qualidade de software. Mais do que conteúdos técnicos, o blog traz reflexões, histórias reais, aprendizados de carreira, bastidores da comunidade e debates importantes sobre o mercado de QA.\nOs textos são escritos em tom editorial, de forma leve e envolvente, como uma conversa entre colegas que vivem os mesmos desafios. É uma leitura que acolhe, ensina e inspira.",
+  "aspectosSelecionados": [
+    "Conteúdo claro e aplicável",
+    "Engajamento com a comunidade",
+    "Relevância dos temas abordados",
+    "Consistência nas publicações",
+    "Formato acessível e atrativo",
+    "Didática e clareza na explicação",
+    "Fonte de aprendizado contínuo",
+    "Instrutor com boa didática",
+    "Convidados relevantes (se for podcast/canal)",
+    "Material atualizado"
+  ],
+  "tipoIndicacao": "conteudo",
+  "especialidade": "Reflexões, experiências e carreira em QA",
+  "link": "",
+  "email": "contato@qway.com.br",
+  "data": "2025-09-22T17:04:27.867Z",
+  "status": "aprovada",
+  "id": "pos-0002",
+  "dataRegistro": "2025-09-22T17:04:28.447Z",
+  "demo": false
+}

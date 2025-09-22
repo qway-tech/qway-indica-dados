@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Consultor DevOps que aproxima observabilidade do QA",
+  "nome": "Rafael Watanabe",
+  "empresaOuResponsavel": "RW FlowOps",
+  "area": "DevOps",
+  "areaOutra": "",
+  "tipo": "Consultoria técnica",
+  "tipoOutro": "",
+  "valor": "R$220,00/hora",
+  "descricao": "Rafael Watanabe lidera implementações DevOps há 10 anos com foco especial em observabilidade e confiabilidade aplicada aos pipelines de QA.\n\nEle começa todo engajamento mapeando métricas de qualidade e pontos cegos de monitoração antes de acoplar ferramentas, garantindo que a equipe saiba o que medir e por quê.\n\nNo banco onde atuamos juntos, criou painéis Grafana que conectam falhas de testes automatizados com logs de produção, permitindo diagnósticos em minutos e reduzindo retrabalho de investigação.\n\nIdeal para squads cloud-native que desejam aproximar QA de SRE sem burocratizar o processo e com documentação extremamente didática.",
+  "aspectosSelecionados": [
+    "Automação orientada a métricas",
+    "Dashboards didáticos",
+    "Integração QA e SRE",
+    "Hands-on com a equipe",
+    "Entrega de playbooks"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "DevOps, Observabilidade, Testes de Performance",
+  "link": "https://rwflowops.example.com",
+  "email": "rafael@rwflowops.example.com",
+  "data": "2024-10-07T09:17:00Z",
+  "status": "aprovada",
+  "id": "pos-9998",
+  "dataRegistro": "2024-10-07T09:22:00Z",
+  "demo": true,
+  "tempoExperiencia": "10 anos",
+  "ferramentasPreferidas": "Grafana, k6, GitHub Actions",
+  "publicoAlvo": "Squads com cultura DevOps em evolução",
+  "formatosAtendimento": "Imersão de 6 semanas + plantões semanais",
+  "idiomasAtendidos": "Português, Inglês e Espanhol"
+}

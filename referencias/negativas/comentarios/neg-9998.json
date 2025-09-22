@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Cléber Nogueira",
+    "texto": "Milena Duarte parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "cleber.nogueira@example.com",
+    "data": "22/07/2024, 11:59:00"
+  },
+  {
+    "autor": "Thiago Magalhães",
+    "texto": "Infelizmente Milena Duarte não entregou o que prometeu e gerou retrabalho.",
+    "email": "thiago.magalhaes@example.com",
+    "data": "22/07/2024, 12:04:00"
+  },
+  {
+    "autor": "Bianca Costa",
+    "texto": "O suporte de Milena Duarte foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "bianca.costa@example.com",
+    "data": "22/07/2024, 12:07:00"
+  },
+  {
+    "autor": "Enzo Vieira",
+    "texto": "A experiência com Milena Duarte foi frustrante e comprometeu nossa credibilidade.",
+    "email": "enzo.vieira@example.com",
+    "data": "22/07/2024, 12:10:00"
+  },
+  {
+    "autor": "Renan Guedes",
+    "texto": "Senti muita falta de transparência da parte de Milena Duarte durante todo o processo.",
+    "email": "renan.guedes@example.com",
+    "data": "22/07/2024, 12:12:00"
+  }
+]

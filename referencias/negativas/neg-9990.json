@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Consultoria de compliance que adicionou taxas escondidas",
+  "nome": "Compliance First QA",
+  "empresaOuResponsavel": "Compliance First QA",
+  "area": "Compliance",
+  "areaOutra": "",
+  "tipo": "Consultoria Regulatória",
+  "tipoOutro": "",
+  "valor": "Contrato inicial de R$45.000,00",
+  "descricao": "A Compliance First prometeu preparar nosso time para auditoria ISO, mas após assinar o contrato começou a cobrar taxas extras para cada reunião.\n\nAs entregas eram atrasadas, os documentos vinham com erros básicos e as orientações mudavam sem justificativa.\n\nQuando solicitamos cronograma revisado, responderam que só fariam mediante contratação de um novo pacote.\n\nFicamos com a sensação de armadilha comercial e tivemos que buscar outro fornecedor em cima da hora.",
+  "aspectosSelecionados": [
+    "Taxas escondidas",
+    "Documentação inconsistente",
+    "Atrasos recorrentes",
+    "Mudança constante de escopo",
+    "Pressão comercial"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Compliance em QA",
+  "link": "https://compliancefirstqa.example.com",
+  "email": "alerta5@indicacoesdemo.example.com",
+  "data": "2024-08-07T14:03:00Z",
+  "status": "pendente",
+  "id": "neg-9990",
+  "dataRegistro": "2024-08-07T14:08:00Z",
+  "demo": true,
+  "escopoAssinado": "Preparação para auditoria ISO 27001",
+  "taxasAdicionais": "Cobrança por reunião extra e revisão de documento",
+  "situacao": "Projeto abandonado a 20 dias da auditoria"
+}

@@ -1,0 +1,32 @@
+{
+  "natureza": "positiva",
+  "titulo": "Consultoria que conecta QA ao analytics corporativo",
+  "nome": "Innova QA Analytics",
+  "empresaOuResponsavel": "Innova QA Analytics",
+  "area": "Analytics de Qualidade",
+  "areaOutra": "",
+  "tipo": "Consultoria em Analytics de Qualidade",
+  "tipoOutro": "",
+  "valor": "Projetos sob medida a partir de R$150.000,00",
+  "descricao": "Innova QA Analytics modernizou nosso monitoramento de qualidade com times multidisciplinares e forte cultura orientada a dados.\n\nEles implementam data lakes de qualidade, correlacionando falhas, métricas de deploy, feedback de usuários e indicadores de negócios.\n\nAlém dos projetos, oferecem treinamentos práticos para liderança e squads aprenderem a ler e agir sobre os dashboards construídos.\n\nRecomendo para empresas data-driven que desejam ter governança de QA plugada ao pipeline de analytics corporativo.",
+  "aspectosSelecionados": [
+    "Governança orientada a dados",
+    "Integração com BI corporativo",
+    "Capacitação em métricas de QA",
+    "Times multidisciplinares",
+    "Visão executiva e operacional"
+  ],
+  "tipoIndicacao": "empresa",
+  "especialidade": "Data Engineering, Observabilidade de QA, Business Intelligence",
+  "link": "https://innovaqa.example.com",
+  "email": "contact@innovaqa.example.com",
+  "data": "2024-10-21T11:16:00Z",
+  "status": "aprovada",
+  "id": "pos-9991",
+  "dataRegistro": "2024-10-21T11:21:00Z",
+  "demo": true,
+  "tecnologias": "Snowflake, dbt, Power BI e Looker",
+  "modeloProjeto": "Descoberta, implementação e LACE interno",
+  "diferencial": "Métricas preditivas de falhas de produção",
+  "capacitacao": "Workshops de leitura de dashboards e guidance 1:1"
+}

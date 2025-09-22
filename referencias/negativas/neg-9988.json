@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "E-book cheio de plágio e sem fontes",
+  "nome": "Segredos do QA Sênior",
+  "empresaOuResponsavel": "Editora FastQA",
+  "area": "Carreira em QA",
+  "areaOutra": "",
+  "tipo": "E-book",
+  "tipoOutro": "",
+  "valor": "R$149,00",
+  "descricao": "O e-book Segredos do QA Sênior copia trechos inteiros de blogs conhecidos sem citar fontes e com traduções mal feitas.\n\nExistem exemplos com prints pixelados, scripts incompletos e orientações erradas sobre automação de testes.\n\nQuando questionei a editora, disseram que era \"conteúdo curado\" e não reconheceram os erros apontados.\n\nSenti que paguei por um compilado mal organizado de material gratuito que ainda por cima está incorreto.",
+  "aspectosSelecionados": [
+    "Plágio evidente",
+    "Erros conceituais",
+    "Material mal formatado",
+    "Ausência de suporte",
+    "Relação custo-benefício ruim"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Carreira em QA",
+  "link": "https://fastqaeditora.example.com",
+  "email": "denuncia2@indicacoesdemo.example.com",
+  "data": "2024-08-11T14:37:00Z",
+  "status": "pendente",
+  "id": "neg-9988",
+  "dataRegistro": "2024-08-11T14:42:00Z",
+  "demo": true,
+  "paginas": "92 páginas com repetição",
+  "bonusPrometidos": "Planilhas e checklist que nunca chegaram",
+  "respostaEditora": "Disseram que era compilado de domínio público"
+}

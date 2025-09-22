@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Coach de carreira que terceirizou todo o acompanhamento",
+  "nome": "Milena Duarte",
+  "empresaOuResponsavel": "Milena Duarte Coaching",
+  "area": "Carreira em QA",
+  "areaOutra": "",
+  "tipo": "Mentoria de carreira",
+  "tipoOutro": "",
+  "valor": "R$1.800,00",
+  "descricao": "Milena vendeu um programa de coaching personalizado, mas nas sessões apareceu outra pessoa sem experiência em QA para conduzir as conversas.\n\nQuando questionamos, ela disse que era uma mentora associada, porém essa pessoa lia roteiros prontos e não conseguia responder dúvidas técnicas.\n\nOs materiais prometidos (planos de estudos, simulados de entrevista, revisão de currículo) nunca foram enviados e o grupo ficou sem retorno.\n\nA sensação foi de propaganda enganosa e ausência total de responsabilidade com o que foi comercializado.",
+  "aspectosSelecionados": [
+    "Equipe despreparada",
+    "Propaganda enganosa",
+    "Falta de entregáveis",
+    "Descompromisso com alunos",
+    "Foco excessivo em vendas"
+  ],
+  "tipoIndicacao": "profissional",
+  "especialidade": "Coaching de Carreira, Transição para QA",
+  "link": "https://milenacoachqa.example.com",
+  "email": "relato2@indicacoesdemo.example.com",
+  "data": "2024-07-22T11:47:00Z",
+  "status": "pendente",
+  "id": "neg-9998",
+  "dataRegistro": "2024-07-22T11:52:00Z",
+  "demo": true,
+  "contrato": "Pacote de 6 sessões prometidas",
+  "realizadas": "Somente 2 sessões com terceirização",
+  "solicitacoesReembolso": "Ignorou todos os pedidos"
+}

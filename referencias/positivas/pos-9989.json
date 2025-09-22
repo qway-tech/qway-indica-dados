@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Curso intensivo de testes exploratórios com práticas guiadas",
+  "nome": "Trilha Exploradora 360",
+  "empresaOuResponsavel": "Coletivo Pessoas QA",
+  "area": "Testes Exploratórios",
+  "areaOutra": "",
+  "tipo": "Curso Online",
+  "tipoOutro": "",
+  "valor": "R$497,00",
+  "descricao": "A Trilha Exploradora 360 mergulha em técnicas de testes exploratórios com foco em experimentação guiada e repertório prático.\n\nCada módulo intercala fundamentos teóricos, estudos de caso e sessões de pareamento em produto real do ecossistema brasileiro.\n\nOs alunos constroem charters completos, registram evidências com templates ricos e recebem feedbacks detalhados da facilitação.\n\nÉ excelente para quem quer sair do básico, desenvolver leitura de risco e sustentar conversas com produto e engenharia.",
+  "aspectosSelecionados": [
+    "Casos reais gravados",
+    "Feedback em comunidade",
+    "Material atualizado",
+    "Facilitação cuidadosa",
+    "Aplicação imediata"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Testes Exploratórios, Mindset de Produto, Análise de Risco",
+  "link": "https://trilhaexploradora.example.com",
+  "email": "cursos@pessoasqa.example.com",
+  "data": "2024-10-25T11:50:00Z",
+  "status": "aprovada",
+  "id": "pos-9989",
+  "dataRegistro": "2024-10-25T11:55:00Z",
+  "demo": true,
+  "cargaHoraria": "18 horas",
+  "nivel": "Intermediário",
+  "formato": "Aulas ao vivo + laboratórios assíncronos",
+  "certificacao": "Certificado digital com checklist de competências",
+  "materialComplementar": "Templates de charters, canvas de riscos e planilhas de acompanhamento"
+}

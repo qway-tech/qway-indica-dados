@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Larissa Prado",
+    "texto": "TesteGuru Fórum parecia mais preocupado em vender do que em resolver o problema.",
+    "email": "larissa.prado@example.com",
+    "data": "02/09/2024, 17:55:00"
+  },
+  {
+    "autor": "Heloísa Martins",
+    "texto": "Infelizmente TesteGuru Fórum não entregou o que prometeu e gerou retrabalho.",
+    "email": "heloisa.martins@example.com",
+    "data": "02/09/2024, 18:01:00"
+  },
+  {
+    "autor": "Kleber Silva",
+    "texto": "O suporte de TesteGuru Fórum foi quase inexistente e tivemos que resolver sozinhos.",
+    "email": "kleber.silva@example.com",
+    "data": "02/09/2024, 18:04:00"
+  },
+  {
+    "autor": "Adriano Lopes",
+    "texto": "Senti muita falta de transparência da parte de TesteGuru Fórum durante todo o processo.",
+    "email": "adriano.lopes@example.com",
+    "data": "02/09/2024, 18:06:00"
+  },
+  {
+    "autor": "Fabiana Pires",
+    "texto": "A experiência com TesteGuru Fórum foi frustrante e comprometeu nossa credibilidade.",
+    "email": "fabiana.pires@example.com",
+    "data": "02/09/2024, 18:07:00"
+  }
+]

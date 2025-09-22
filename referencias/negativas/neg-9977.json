@@ -1,0 +1,31 @@
+{
+  "natureza": "negativa",
+  "titulo": "Fórum com spam e vagas fraudulentas",
+  "nome": "TesteGuru Fórum",
+  "empresaOuResponsavel": "Equipe TesteGuru",
+  "area": "Fórum",
+  "areaOutra": "",
+  "tipo": "Fórum Online",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O fórum TesteGuru está abandonado e cheio de spam, inclusive vagas fraudulentas pedindo pagamento adiantado.\n\nJá reportamos várias postagens suspeitas e nenhuma medida foi tomada.\n\nHá bots que replicam perguntas antigas com links para sites maliciosos.\n\nNão recomendo porque virou terreno fértil para golpes.",
+  "aspectosSelecionados": [
+    "Spam constante",
+    "Vagas fraudulentas",
+    "Bots ativos",
+    "Ausência de moderação",
+    "Risco de golpe"
+  ],
+  "tipoIndicacao": "comunidade",
+  "especialidade": "Fórum técnico",
+  "link": "https://forum.testeguru.example.com",
+  "email": "alertacomunidade3@indicacoesdemo.example.com",
+  "data": "2024-09-02T17:44:00Z",
+  "status": "pendente",
+  "id": "neg-9977",
+  "dataRegistro": "2024-09-02T17:49:00Z",
+  "demo": true,
+  "denuncias": "Mais de 15 tópicos reportados sem ação",
+  "seguranca": "Sem CAPTCHA ou validação de contas",
+  "historico": "Última moderação oficial há 8 meses"
+}

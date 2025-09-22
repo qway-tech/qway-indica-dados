@@ -1,0 +1,33 @@
+{
+  "natureza": "positiva",
+  "titulo": "Canal prático de automação e qualidade em mobile",
+  "nome": "Canal QA Hands-On",
+  "empresaOuResponsavel": "QA Hands-On Studio",
+  "area": "Testes Automatizados",
+  "areaOutra": "",
+  "tipo": "Canal no YouTube",
+  "tipoOutro": "",
+  "valor": "gratuito",
+  "descricao": "O canal QA Hands-On reúne tutoriais práticos desmontando frameworks modernos de automação e estratégias de teste para mobile.\n\nOs vídeos alternam explicações conceituais, sessões de live coding e entrevistas com especialistas convidados.\n\nHá playlists temáticas com roteiros completos, scripts compartilhados no GitHub e desafios para o público praticar com feedback coletivo.\n\nRecomendo para profissionais que gostam de colocar a mão na massa e acompanhar novidades com profundidade.",
+  "aspectosSelecionados": [
+    "Didática envolvente",
+    "Exemplos práticos",
+    "Atualização constante",
+    "Código disponível",
+    "Interação com a comunidade"
+  ],
+  "tipoIndicacao": "educacao",
+  "especialidade": "Testes Automatizados, Qualidade Mobile, Ferramentas Modernas",
+  "link": "https://youtube.com/@QAHAndsOn",
+  "email": "contato@qahandson.example.com",
+  "data": "2024-10-31T12:41:00Z",
+  "status": "aprovada",
+  "id": "pos-9986",
+  "dataRegistro": "2024-10-31T12:46:00Z",
+  "demo": true,
+  "gradeMensal": "Lives quinzenais + tutoriais semanais",
+  "materialApoio": "Repositórios GitHub com projetos exemplo",
+  "publicoAlvo": "Profissionais de QA focados em automação e mobile",
+  "linguagensCobertas": "JavaScript, Python e Kotlin",
+  "comunidadeSuporte": "Servidor Discord para dúvidas e networking"
+}

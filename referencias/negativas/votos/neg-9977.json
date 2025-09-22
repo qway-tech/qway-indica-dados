@@ -1,0 +1,18 @@
+[
+  {
+    "email": "qa.alertas+09@example.com",
+    "data": "02/09/2024, 17:56:00"
+  },
+  {
+    "email": "qa.alertas+10@example.com",
+    "data": "02/09/2024, 17:57:00"
+  },
+  {
+    "email": "qa.alertas+09@example.com",
+    "data": "02/09/2024, 18:01:00"
+  },
+  {
+    "email": "qa.alertas+08@example.com",
+    "data": "02/09/2024, 18:06:00"
+  }
+]
