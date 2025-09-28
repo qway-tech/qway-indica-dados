@@ -1,12 +1,7 @@
 {
-  "ultimaAtualizacao": "2025-09-28T11:19:46.161Z",
-  "mais_curtidas": [
-    "pos-0001",
-    "pos-0002"
-  ],
-  "mais_comentadas": [
-    "pos-0001"
-  ],
+  "ultimaAtualizacao": "2025-09-28T12:06:03.212Z",
+  "mais_curtidas": [],
+  "mais_comentadas": [],
   "mais_recentes": [
     "pos-0002",
     "pos-0001"
@@ -39,6 +34,52 @@
     "evento": {
       "positivas": 0,
       "negativas": 0
+    }
+  },
+  "demo": {
+    "mais_recentes": [
+      "pos-9999",
+      "pos-9998",
+      "pos-9997",
+      "pos-9996",
+      "pos-9995",
+      "pos-9994",
+      "pos-9993",
+      "pos-9992",
+      "pos-9991",
+      "pos-9990"
+    ],
+    "mais_curtidas": [],
+    "mais_comentadas": [],
+    "totais": {
+      "positivas": 30,
+      "negativas": 30
+    },
+    "totais_por_tipo": {
+      "profissional": {
+        "positivas": 5,
+        "negativas": 5
+      },
+      "empresa": {
+        "positivas": 5,
+        "negativas": 5
+      },
+      "educacao": {
+        "positivas": 5,
+        "negativas": 5
+      },
+      "conteudo": {
+        "positivas": 5,
+        "negativas": 5
+      },
+      "comunidade": {
+        "positivas": 5,
+        "negativas": 5
+      },
+      "evento": {
+        "positivas": 5,
+        "negativas": 5
+      }
     }
   }
 }
