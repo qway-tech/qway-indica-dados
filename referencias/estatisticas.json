@@ -1,57 +1,44 @@
 {
-  "ultimaAtualizacao": "2025-09-28T08:52:40.887Z",
+  "ultimaAtualizacao": "2025-09-28T10:08:54.279Z",
   "mais_curtidas": [
     "pos-0001",
-    "pos-9989",
-    "pos-9987",
-    "pos-9980",
-    "pos-9996",
-    "pos-9983"
+    "pos-0002"
   ],
   "mais_comentadas": [
-    "pos-0001",
-    "pos-9974",
-    "pos-9987",
-    "pos-9972",
-    "pos-9994",
-    "pos-9977"
+    "pos-0001"
   ],
   "mais_recentes": [
     "pos-0002",
-    "pos-9998",
-    "pos-9997",
-    "pos-9996",
-    "pos-9995",
-    "pos-9994"
+    "pos-0001"
   ],
   "totais": {
-    "positivas": 32,
-    "negativas": 30
+    "positivas": 2,
+    "negativas": 0
   },
   "totais_por_tipo": {
     "profissional": {
-      "positivas": 5,
-      "negativas": 5
+      "positivas": 0,
+      "negativas": 0
     },
     "empresa": {
-      "positivas": 5,
-      "negativas": 5
+      "positivas": 0,
+      "negativas": 0
     },
     "educacao": {
-      "positivas": 5,
-      "negativas": 5
+      "positivas": 0,
+      "negativas": 0
     },
     "conteudo": {
-      "positivas": 6,
-      "negativas": 5
+      "positivas": 1,
+      "negativas": 0
     },
     "comunidade": {
-      "positivas": 6,
-      "negativas": 5
+      "positivas": 1,
+      "negativas": 0
     },
     "evento": {
-      "positivas": 5,
-      "negativas": 5
+      "positivas": 0,
+      "negativas": 0
     }
   }
 }
