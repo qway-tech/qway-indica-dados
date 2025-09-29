@@ -1,57 +1,97 @@
 {
   "ultimaAtualizacao": "2025-09-29T07:50:52.997Z",
-  "mais_curtidas": [
-    "pos-9974",
-    "pos-9987",
-    "pos-9989",
-    "pos-9980",
-    "pos-9983",
-    "pos-9991"
-  ],
-  "mais_comentadas": [
-    "pos-9972",
-    "pos-9974",
-    "pos-9987",
-    "pos-9989",
-    "pos-9977",
-    "pos-9983"
-  ],
-  "mais_recentes": [
-    "pos-9999",
-    "pos-9998",
-    "pos-9997",
-    "pos-9996",
-    "pos-9995",
-    "pos-9994"
-  ],
-  "totais": {
-    "positivas": 32,
-    "negativas": 30
+  "demo": {
+    "mais_curtidas": [
+      "pos-9974",
+      "pos-9987",
+      "pos-9989",
+      "pos-9980",
+      "pos-9983",
+      "pos-9991"
+    ],
+    "mais_comentadas": [
+      "pos-9972",
+      "pos-9974",
+      "pos-9987",
+      "pos-9989",
+      "pos-9977",
+      "pos-9983"
+    ],
+    "mais_recentes": [
+      "pos-9999",
+      "pos-9998",
+      "pos-9997",
+      "pos-9996",
+      "pos-9995",
+      "pos-9994"
+    ],
+    "totais": {
+      "positivas": 32,
+      "negativas": 30
+    },
+    "totais_por_tipo": {
+      "profissional": {
+        "positivas": 5,
+        "negativas": 5
+      },
+      "empresa": {
+        "positivas": 5,
+        "negativas": 5
+      },
+      "educacao": {
+        "positivas": 5,
+        "negativas": 5
+      },
+      "conteudo": {
+        "positivas": 6,
+        "negativas": 5
+      },
+      "comunidade": {
+        "positivas": 6,
+        "negativas": 5
+      },
+      "evento": {
+        "positivas": 5,
+        "negativas": 5
+      }
+    }
   },
-  "totais_por_tipo": {
-    "profissional": {
-      "positivas": 5,
-      "negativas": 5
+  "oficiais":{
+    "mais_curtidas": [
+    ],
+    "mais_comentadas": [
+    ],
+    "mais_recentes": [
+    ],
+    "totais": {
+      "positivas": 0,
+      "negativas": 0
     },
-    "empresa": {
-      "positivas": 5,
-      "negativas": 5
-    },
-    "educacao": {
-      "positivas": 5,
-      "negativas": 5
-    },
-    "conteudo": {
-      "positivas": 6,
-      "negativas": 5
-    },
-    "comunidade": {
-      "positivas": 6,
-      "negativas": 5
-    },
-    "evento": {
-      "positivas": 5,
-      "negativas": 5
+    "totais_por_tipo": {
+      "profissional": {
+        "positivas": 0,
+        "negativas": 0
+      },
+      "empresa": {
+        "positivas": 0,
+        "negativas": 0
+      },
+      "educacao": {
+        "positivas": 0,
+        "negativas": 0
+      },
+      "conteudo": {
+        "positivas": 0,
+        "negativas": 0
+      },
+      "comunidade": {
+        "positivas": 0,
+        "negativas": 0
+      },
+      "evento": {
+        "positivas": 0,
+        "negativas": 0
+      }
     }
   }
 }
