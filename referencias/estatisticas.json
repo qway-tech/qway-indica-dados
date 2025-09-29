@@ -1,112 +1,57 @@
 {
-  "ultimaAtualizacao": "2025-09-28T14:43:25.596Z",
+  "ultimaAtualizacao": "2025-09-29T07:50:52.997Z",
   "mais_curtidas": [
-    "pos-0001",
-    "pos-0002"
+    "pos-9974",
+    "pos-9987",
+    "pos-9989",
+    "pos-9980",
+    "pos-9983",
+    "pos-9991"
   ],
   "mais_comentadas": [
-    "pos-0001"
+    "pos-9972",
+    "pos-9974",
+    "pos-9987",
+    "pos-9989",
+    "pos-9977",
+    "pos-9983"
   ],
   "mais_recentes": [
-    "pos-0002",
-    "pos-0001"
+    "pos-9999",
+    "pos-9998",
+    "pos-9997",
+    "pos-9996",
+    "pos-9995",
+    "pos-9994"
   ],
   "totais": {
-    "positivas": 2,
-    "negativas": 0
+    "positivas": 32,
+    "negativas": 30
   },
   "totais_por_tipo": {
     "profissional": {
-      "positivas": 0,
-      "negativas": 0
+      "positivas": 5,
+      "negativas": 5
     },
     "empresa": {
-      "positivas": 0,
-      "negativas": 0
+      "positivas": 5,
+      "negativas": 5
     },
     "educacao": {
-      "positivas": 0,
-      "negativas": 0
+      "positivas": 5,
+      "negativas": 5
     },
     "conteudo": {
-      "positivas": 1,
-      "negativas": 0
+      "positivas": 6,
+      "negativas": 5
     },
     "comunidade": {
-      "positivas": 1,
-      "negativas": 0
+      "positivas": 6,
+      "negativas": 5
     },
     "evento": {
-      "positivas": 0,
-      "negativas": 0
-    }
-  },
-  "demo": {
-    "mais_recentes": [
-      "pos-9970",
-      "pos-9971",
-      "pos-9972",
-      "pos-9973",
-      "pos-9974",
-      "pos-9975",
-      "pos-9976",
-      "pos-9977",
-      "pos-9978",
-      "pos-9979"
-    ],
-    "mais_curtidas": [
-      "pos-9974",
-      "pos-9987",
-      "pos-9989",
-      "pos-9980",
-      "pos-9983",
-      "pos-9991",
-      "pos-9995",
-      "pos-9996",
-      "pos-9971",
-      "pos-9978"
-    ],
-    "mais_comentadas": [
-      "pos-9972",
-      "pos-9974",
-      "pos-9987",
-      "pos-9989",
-      "pos-9970",
-      "pos-9971",
-      "pos-9973",
-      "pos-9975",
-      "pos-9976",
-      "pos-9977"
-    ],
-    "totais": {
-      "positivas": 30,
-      "negativas": 30
-    },
-    "totais_por_tipo": {
-      "profissional": {
-        "positivas": 5,
-        "negativas": 5
-      },
-      "empresa": {
-        "positivas": 5,
-        "negativas": 5
-      },
-      "educacao": {
-        "positivas": 5,
-        "negativas": 5
-      },
-      "conteudo": {
-        "positivas": 5,
-        "negativas": 5
-      },
-      "comunidade": {
-        "positivas": 5,
-        "negativas": 5
-      },
-      "evento": {
-        "positivas": 5,
-        "negativas": 5
-      }
+      "positivas": 5,
+      "negativas": 5
     }
   }
 }
