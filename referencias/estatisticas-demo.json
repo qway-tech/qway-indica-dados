@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2025-10-26T15:39:03.769Z",
+  "ultimaAtualizacao": "2025-10-27T11:02:21.608Z",
   "mais_curtidas": [
     "pos-9974",
     "pos-9989",
@@ -13,24 +13,24 @@
     "pos-9987",
     "pos-9974",
     "pos-9972",
-    "pos-9998",
-    "pos-9997"
+    "pos-9999",
+    "pos-9998"
   ],
   "mais_recentes": [
+    "pos-9999",
     "pos-9998",
     "pos-9997",
     "pos-9996",
     "pos-9995",
-    "pos-9994",
-    "pos-9993"
+    "pos-9994"
   ],
   "totais": {
-    "positivas": 29,
+    "positivas": 30,
     "negativas": 30
   },
   "totais_por_tipo": {
     "profissional": {
-      "positivas": 4,
+      "positivas": 5,
       "negativas": 5
     },
     "empresa": {
