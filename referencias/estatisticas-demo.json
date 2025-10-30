@@ -1,5 +1,7 @@
 {
-  "ultimaAtualizacao": "2025-10-30T10:31:07.011Z",
+  "ambiente": "demo",
+  "ultimaAtualizacao": "2025-10-30T11:32:08.039Z",
+  "quantidade_total": 62,
   "mais_curtidas": [
     "pos-9974",
     "pos-9989",
@@ -14,18 +16,18 @@
     "pos-9974",
     "pos-9972",
     "pos-9999",
-    "pos-9998"
+    "neg-9999"
   ],
   "mais_recentes": [
     "pos-9999",
+    "neg-9999",
     "pos-9998",
+    "neg-9998",
     "pos-9997",
-    "pos-9996",
-    "pos-9995",
-    "pos-9994"
+    "neg-9997"
   ],
   "totais": {
-    "positivas": 30,
+    "positivas": 32,
     "negativas": 30
   },
   "totais_por_tipo": {
@@ -42,11 +44,11 @@
       "negativas": 5
     },
     "conteudo": {
-      "positivas": 5,
+      "positivas": 6,
       "negativas": 5
     },
     "comunidade": {
-      "positivas": 5,
+      "positivas": 6,
       "negativas": 5
     },
     "evento": {
