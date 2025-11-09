@@ -1,4 +1,5 @@
 {
+  "ambiente": "reais",
   "mais_curtidas": [
     {
       "natureza": "positiva",
@@ -64,41 +65,10 @@
       "dataRegistro": "2025-09-22T17:04:28.447Z",
       "demo": false,
       "votos": 1,
-      "comentarios": 0
+      "comentarios": 1
     }
   ],
   "mais_comentadas": [
-    {
-      "natureza": "positiva",
-      "titulo": "Comunidade QWay – um espaço seguro para aprender e crescer em QA",
-      "nome": "QWay",
-      "empresaOuResponsavel": "Daniel Castro",
-      "area": "QA",
-      "areaOutra": "",
-      "tipo": "Comunidade WhatsApp/Telegram",
-      "tipoOutro": "",
-      "valor": "",
-      "descricao": "A QWay tem sido um divisor de águas na jornada de profissionais de QA. A comunidade oferece um ambiente acolhedor, cheio de conteúdo técnico de qualidade, apoio mútuo e oportunidades reais de crescimento. É o tipo de espaço que valoriza tanto o lado humano quanto o técnico, com iniciativas como a QWay Academy, o Blog da QWay e o canal QWay no Youtube. Além disso, há forte presença nas redes sociais, promovendo discussões relevantes e desmistificando o mercado de QA no Brasil e no exterior.\nRecomendo para qualquer pessoa que queira evoluir de verdade na carreira, com seriedade, ética e visão de longo prazo.",
-      "aspectosSelecionados": [
-        "Ambiente saudável e colaborativo",
-        "Abertura para todos os níveis de carreira",
-        "Representatividade e inclusão",
-        "Networking e oportunidades de carreira",
-        "Conteúdo relevante compartilhado",
-        "Valorização da qualidade e inovação"
-      ],
-      "tipoIndicacao": "comunidade",
-      "especialidade": "Qualidade de Software, Testes de Software, Mentoria Profissional, Desenvolvimento de Carreira, Educação Técnica",
-      "link": "https://qway.com.br/#participe",
-      "email": "daniel.kodeout@gmail.com",
-      "data": "2025-09-22T15:53:28.437Z",
-      "status": "aprovada",
-      "id": "pos-0001",
-      "dataRegistro": "2025-09-22T15:53:28.886Z",
-      "demo": false,
-      "votos": 3,
-      "comentarios": 1
-    },
     {
       "natureza": "positiva",
       "titulo": "Artigos acessíveis e inspiradores sobre qualidade de software, carreira e comunidade.",
@@ -132,7 +102,38 @@
       "dataRegistro": "2025-09-22T17:04:28.447Z",
       "demo": false,
       "votos": 1,
-      "comentarios": 0
+      "comentarios": 1
+    },
+    {
+      "natureza": "positiva",
+      "titulo": "Comunidade QWay – um espaço seguro para aprender e crescer em QA",
+      "nome": "QWay",
+      "empresaOuResponsavel": "Daniel Castro",
+      "area": "QA",
+      "areaOutra": "",
+      "tipo": "Comunidade WhatsApp/Telegram",
+      "tipoOutro": "",
+      "valor": "",
+      "descricao": "A QWay tem sido um divisor de águas na jornada de profissionais de QA. A comunidade oferece um ambiente acolhedor, cheio de conteúdo técnico de qualidade, apoio mútuo e oportunidades reais de crescimento. É o tipo de espaço que valoriza tanto o lado humano quanto o técnico, com iniciativas como a QWay Academy, o Blog da QWay e o canal QWay no Youtube. Além disso, há forte presença nas redes sociais, promovendo discussões relevantes e desmistificando o mercado de QA no Brasil e no exterior.\nRecomendo para qualquer pessoa que queira evoluir de verdade na carreira, com seriedade, ética e visão de longo prazo.",
+      "aspectosSelecionados": [
+        "Ambiente saudável e colaborativo",
+        "Abertura para todos os níveis de carreira",
+        "Representatividade e inclusão",
+        "Networking e oportunidades de carreira",
+        "Conteúdo relevante compartilhado",
+        "Valorização da qualidade e inovação"
+      ],
+      "tipoIndicacao": "comunidade",
+      "especialidade": "Qualidade de Software, Testes de Software, Mentoria Profissional, Desenvolvimento de Carreira, Educação Técnica",
+      "link": "https://qway.com.br/#participe",
+      "email": "daniel.kodeout@gmail.com",
+      "data": "2025-09-22T15:53:28.437Z",
+      "status": "aprovada",
+      "id": "pos-0001",
+      "dataRegistro": "2025-09-22T15:53:28.886Z",
+      "demo": false,
+      "votos": 3,
+      "comentarios": 1
     }
   ],
   "mais_recentes": [
@@ -169,7 +170,7 @@
       "dataRegistro": "2025-09-22T17:04:28.447Z",
       "demo": false,
       "votos": 1,
-      "comentarios": 0
+      "comentarios": 1
     },
     {
       "natureza": "positiva",
@@ -267,7 +268,7 @@
       "dataRegistro": "2025-09-22T17:04:28.447Z",
       "demo": false,
       "votos": 1,
-      "comentarios": 0
+      "comentarios": 1
     },
     {
       "natureza": "positiva",
